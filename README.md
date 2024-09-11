@@ -16,10 +16,10 @@ considerations.)
 2. GitHub Repository Research
 
 3. Prototype Development
-<br> Start modifying HomePage </b>
+<br> Added in Minty Bootswatch theme for project </b>
 
 4. Resources
-<br> bootswatch.com for Solar Theme  </b>
+<br> bootswatch.com </b>
    
 
 
