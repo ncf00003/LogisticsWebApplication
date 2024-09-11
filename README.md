@@ -11,33 +11,33 @@ considerations.)
 
 # Collective Research Findings
 ## Natalia Furmanek 
-### 1. Competitive Development
+1. Competitive Development
 
-### 2. GitHub Repository Research
+2. GitHub Repository Research
 
-### 3. Prototype Development
+3. Prototype Development
 <br> Start modifying HomePage </b>
 
-### 5. Resources
+4. Resources
 <br> bootswatch.com for Solar Theme  </b>
    
 
 
 ## Leonardo Cuellar
-### 1. Competitive Development
+1. Competitive Development
 
-### 2. GitHub Repository Research
+2. GitHub Repository Research
 
-### 3. Prototype Development
+3. Prototype Development
 
-### 4. Resources
+4. Resources
 
 
 ## Luke Chitt
-### 1. Competitive Development
+1. Competitive Development
 
-### 2. GitHub Repository Research
+2. GitHub Repository Research
 
-### 3. Prototype Development
+3. Prototype Development
 
-### 4. Resources
+4. Resources
