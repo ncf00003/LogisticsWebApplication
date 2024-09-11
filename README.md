@@ -1,5 +1,6 @@
 # PrototypeWebApplication
 
+
 ## Project Overview
 (Collaborate to provide a concise description of
 your project and its current phase in the README.)
@@ -11,7 +12,8 @@ advancements to your application, including front-end and back-end
 considerations.)
 
 
-# Collective Research Findings
+## Collective Research Findings
+
 ### Natalia Furmanek 
 1. Competitive Development
 
