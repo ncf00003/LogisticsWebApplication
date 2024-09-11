@@ -16,7 +16,7 @@ considerations.)
 2. GitHub Repository Research
 
 3. Prototype Development
-   Start modifying HomePage 
+   <br> Start modifying HomePage </b>
 
 5. Resources
    bootswatch.com for Solar Theme
