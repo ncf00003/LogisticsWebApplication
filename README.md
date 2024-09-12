@@ -10,7 +10,7 @@ considerations.)
 
 # Collective Research Findings
 ## Natalia Furmanek 
-1. Competitive Development
+<strong> 1. Competitive Development </strong>
    <br> https://www.fluentcargo.com/ is a similar website to what we plan on creating.</b>
    <br> Fluent Cargo has a sleek design with multiple buttons that can direct user attention,
    plus some ideas for what needs to be included on our web app. There is a search bar that I want to include plus
