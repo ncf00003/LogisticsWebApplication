@@ -29,7 +29,7 @@ to include for our app; although, I would place this on a seperate page for our 
 <br> Added Minty Bootswatch theme into project design </b>
  
 <strong> 4. Resources </strong>
-<br> bootswatch.com </b>
+<br> https://bootswatch.com/minty/ </b>
 <br> Bootswatch used for style sheet and Bootstrap templates </b>
 <p> https://www.markdownguide.org/basic-syntax/
 <br> Markdownguide used as a format reference </b> </p>  
