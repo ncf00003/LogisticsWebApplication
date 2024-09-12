@@ -9,30 +9,27 @@ of shipping times, routing, and tracking information.
 (Work together to outline potential future
 advancements to your application, including front-end and back-end
 considerations.)
-
+<p> Crucially, this web applicaiton will need a creative name in the future. Outside of visual aspects which will improve as we work,
+we need to continue improving functional aspects on our pages. 
+</p>
 
 # Collective Research Findings
 ## Natalia Furmanek 
 <strong> 1. Competitive Development </strong>
 <br> https://www.fluentcargo.com/ is a similar website to what we plan on creating.</b>
-<p> Fluent Cargo has a sleek design with multiple buttons that can direct user attention,
-plus some ideas for what needs to be included on our web app. There is a search bar that I want to include plus
-directional buttons for routes, tracking, schedules and ports. The website itself is full of eye catching and
-moving visuals. At the bottom of the page, there is information about popular shipping routs which would be useful
-to include for our app; although, I would place this on a seperate page for our project.</p>
-<p> After inspecting the website to see its code Fluent Cargo appears to be using custom classes for each header or block of information.
-Looking to sources, it appears that the site uses DatoCMS assets to assist in collaboration on the site and JS Stripe to accept secure payments. 
-As for Bootstrap, the closest source file I could find was labeled globals.css. Under theme, there were only .ts files which may explain the 
-moving graphics and videos throughout the site. </p>
-<p> Overall, Fluent Cargo is a good source of functional inspiration but the design aspects are not. The design is very visually appealing
-but it often takes a while to load on the user end which we would want to avoid. Plus, inspection of the site with browser tools revealed
-that many sources and elements are beyond our scope for this project. With this project, advanced graphics and file types used to create this 
-website are not as benefical for our efforts as the core functions of the site.
+<p> Fluent Cargo has a sleek design with multiple buttons that can direct user attention, plus some ideas for what needs to be included on our web app. There is a search bar that I want to include plus directional buttons for routes, tracking, schedules and ports. The website itself is full of eye catching and moving visuals. At the bottom of the page, there is information about popular shipping routs which would be useful to include for our app; although, I would place this on a seperate page for our project.</p>
+<p> After inspecting the website to see its code Fluent Cargo appears to be using custom classes for each header or block of information. Looking to sources, it appears that the site uses DatoCMS assets to assist in collaboration on the site and JS Stripe to accept secure payments. As for Bootstrap, the closest source file I could find was labeled globals.css. Under theme, there were only .ts files which may explain the moving graphics and videos throughout the site. </p>
+<p> Overall, Fluent Cargo is a good source of functional inspiration but the design aspects are not. The design is very visually appealing but it often takes a while to load on the user end which we would want to avoid. Plus, inspection of the site with browser tools revealed that many sources and elements are beyond our scope for this project. With this project, advanced graphics and file types used to create this website are not as benefical for our efforts as the core functions of the site.
 </p>
 
 <strong> 2. GitHub Repository Research </strong>
-<br> </b> 
-
+<br> https://github.com/karrioapi/karrio is a Shipping web application repository that may be benefical to our project </b>
+<br> Additionally, This project uses the Apache v2 license </b> 
+<p> Karrio is a public open-source repository, comprised mainly of Python code but contains Javascript and CSS that we can better understand from class coverage.
+The ReadMe file is visually appealing and outlines how to get started on the app alongside great detail of capabilities and shipping integration limitations. Some aspects of this repository that we may want to implement are: label generation, package tracking, and document generation. The website itself runs quickly and makes use of color blocks and minimal graphics.</p>
+<p> Finally, Karrio clearly defines user and admin capabilities which could be an interesting aspect to borrow in our logistics web application. Karrio specifies that this is a developer resource, so it is appropriate for our project efforts. Although, in using this code, we need to keep in mind the limitations and use of Python which we have not covered in class yet.  
+</p>
+ 
 <strong> 3. Prototype Development </strong>
 <br> Created and shared repository alongside initial ReadMe format </b> 
 <br> Added Minty Bootswatch theme into project design </b>
