@@ -10,14 +10,13 @@ considerations.)
 
 # Collective Research Findings
 ## Natalia Furmanek 
-*** 1. Competitive Development ***
-<br> https://www.fluentcargo.com/ is a similar website to what we plan on creating.</b>
-<br> Fluent Cargo has a sleek design with multiple buttons that can direct user attention,
-plus some ideas for what needs to be included on our web app. There is a search bar that I want to include plus
-directional buttons for routes, tracking, schedules and ports. The website itself is full of eye catching and
-moving visuals. At the bottom of the page, there is information about popular shipping routs which would be useful
-to include for our app; although, I would place this on a seperate page for our project. 
-</b>
+1. Competitive Development
+   <br> https://www.fluentcargo.com/ is a similar website to what we plan on creating.</b>
+   <br> Fluent Cargo has a sleek design with multiple buttons that can direct user attention,
+   plus some ideas for what needs to be included on our web app. There is a search bar that I want to include plus
+   directional buttons for routes, tracking, schedules and ports. The website itself is full of eye catching and
+   moving visuals. At the bottom of the page, there is information about popular shipping routs which would be useful
+   to include for our app; although, I would place this on a seperate page for our project. </b>
 
 3. GitHub Repository Research
 
