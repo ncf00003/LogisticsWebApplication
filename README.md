@@ -25,10 +25,9 @@ to include for our app; although, I would place this on a seperate page for our 
 <br> </b> 
 
 <strong> 3. Prototype Development </strong>
-<br> Created and shared repository alongside initial ReadMe format </b> 
-<br> Added Minty Bootswatch theme into project design </b>
-<br> </b> 
-
+  * Created and shared repository alongside initial ReadMe format </b> 
+  * Added Minty Bootswatch theme into project design </b>
+ 
 <strong> 4. Resources </strong>
 <br> bootswatch.com </b>
 <br> For style sheet and Bootstrap templates </b>
