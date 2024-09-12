@@ -1,6 +1,9 @@
 # PrototypeWebApplication
 ### Project Overview
-Dynamic routes for logistics (shipping) companies. This is the basic prototype with background research.
+We plan to create a web app based on dynamic routes for logistics (shipping) companies. 
+<p> This is our basic prototype with background research. We aim to make a visually appealing overview
+of shipping times, routing, and tracking information. 
+</p>
 
 ### Future Enhancements
 (Work together to outline potential future
@@ -19,6 +22,7 @@ moving visuals. At the bottom of the page, there is information about popular sh
 to include for our app; although, I would place this on a seperate page for our project.</p>
 
 <strong> 2. GitHub Repository Research </strong>
+<br> </b> 
 
 <strong> 3. Prototype Development </strong>
 <br> Created and shared repository alongside initial ReadMe format </b> 
@@ -33,20 +37,28 @@ to include for our app; although, I would place this on a seperate page for our 
 
 
 ## Leonardo Cuellar
-1. Competitive Development
+<strong> 1. Competitive Development </strong>
+<br> </b> 
 
-2. GitHub Repository Research
+<strong> 2. GitHub Repository Research </strong>
+<br> </b> 
 
-3. Prototype Development
+<strong> 3. Prototype Development </strong>
+<br> </b> 
 
-4. Resources
+<strong> 4. Resources </strong>
+<br> </b> 
 
 
 ## Luke Chitt
-1. Competitive Development
+<strong> 1. Competitive Development </strong>
+<br> </b> 
 
-2. GitHub Repository Research
+<strong> 2. GitHub Repository Research </strong>
+<br> </b> 
 
-3. Prototype Development
+<strong> 3. Prototype Development </strong>
+<br> </b> 
 
-4. Resources
+<strong> 4. Resources </strong>
+<br> </b> 
