@@ -44,6 +44,7 @@ Markdownguide used as a format reference </b> </p>
 <p> https://www.w3schools.com/bootstrap5/bootstrap_containers.php <br>
 Reference for Bootstrap Elements and Code </b>
 </p>
+<p> Google's color picker for Custom CSS Color Hex Codes </p>
 
 ## Leonardo Cuellar
 <strong> 1. Competitive Development </strong>
