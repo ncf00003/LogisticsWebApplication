@@ -18,5 +18,21 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+}
+
+/* Natalia's CSS Template */
+/* Colors: #D3FDF3 - pale mint to go with theme */
+
+/* Modify to make H2 more impactfull */
+h2 {
+    color: var(--bs-heading-color);
+}
+
+blockquote {
+    background-color: #D3FDF3;
+    background-position: center;
+    --bs-border-width: 5px;
+    --bs-border-style: solid;
+    --bs-border-color: #eceeef;
 }
