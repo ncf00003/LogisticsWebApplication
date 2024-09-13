@@ -39,9 +39,11 @@ The ReadMe file is visually appealing and outlines how to get started on the app
 <strong> 4. Resources </strong>
 <br> https://bootswatch.com/minty/ </b>
 <br> Bootswatch used for style sheet and Bootstrap templates </b>
-<p> https://www.markdownguide.org/basic-syntax/
-<br> Markdownguide used as a format reference </b> </p>  
-
+<p> https://www.markdownguide.org/basic-syntax/ <br>
+Markdownguide used as a format reference </b> </p>  
+<p> https://www.w3schools.com/bootstrap5/bootstrap_containers.php <br>
+Reference for Bootstrap Elements and Code </b>
+</p>
 
 ## Leonardo Cuellar
 <strong> 1. Competitive Development </strong>
