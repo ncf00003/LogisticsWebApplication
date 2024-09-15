@@ -33,7 +33,7 @@ The ReadMe file is visually appealing and outlines how to get started on the app
 <strong> 3. Prototype Development </strong>
 <br> Created and shared repository alongside initial ReadMe format </b> 
 <p> Added Minty Bootswatch theme into project design </p>
-<p> Added "Welcome" page that was named "Start Here" on the navigation bar. Also added visuals to both pages for cohesion of pages. "Start Here" will include overview and about information which may change as we narrow down ideas for our websites function. 
+<p> Added "Welcome" page that was named "Start Here" on the navigation bar. Also added visuals with alt. text to both pages for cohesion of pages. "Start Here" will include overview and about information which may change as we narrow down ideas for our websites function and a table for team information. Created a CSS "box" as a style option used for blocking paragraphs together on my page.
 </p>
  
 <strong> 4. Resources </strong>
