@@ -6,12 +6,11 @@ of shipping times, routing, and tracking information.
 </p>
 
 ### Future Enhancements
-(Work together to outline potential future
-advancements to your application, including front-end and back-end
-considerations.)
 <p> Crucially, this web applicaiton will need a creative name in the future. Outside of visual aspects which will improve as we work,
 we need to continue improving functional aspects on our pages. 
 </p>
+<p> Front-end considerations are...</p>
+<p> Back-end considerations are... </p>
 
 # Collective Research Findings
 ## Natalia Furmanek 
