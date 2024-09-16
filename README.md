@@ -33,7 +33,7 @@ The ReadMe file is visually appealing and outlines how to get started on the app
 <strong> 3. Prototype Development </strong>
 <br> Created and shared repository alongside initial ReadMe format </b> 
 <p> Added Minty Bootswatch theme into project design </p>
-<p> Added "Welcome" page that was named "Start Here" on the navigation bar. Also added visuals with alt. text to both pages for cohesion of pages. "Start Here" will include overview and about information which may change as we narrow down ideas for our websites function and a table for team information. Created a CSS "box" as a style option used for blocking paragraphs together on my page.
+<p> Added "Welcome" page that was named "Start Here" on the navigation bar. Also added visuals with alt. text to both pages for cohesion of pages. "Start Here" will include overview and about information which may change as we narrow down ideas for our websites function and a table for team information. Created a CSS "box" as a style option used for blocking paragraphs together on my page. Team table created with name, role and class information about group members. Table was formatted using bootstrap and custom style to blend in with CSS box and add unity. 
 </p>
  
 <strong> 4. Resources </strong>
@@ -42,7 +42,8 @@ The ReadMe file is visually appealing and outlines how to get started on the app
 <p> https://www.markdownguide.org/basic-syntax/ <br>
 Markdownguide used as a format reference </b> </p>  
 <p> https://www.w3schools.com/bootstrap5/bootstrap_containers.php <br>
-Reference for Bootstrap Elements and Code </b>
+<br>https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b>
+Both Websites used as syntax reference for Bootstrap Elements </b>
 </p>
 <p> Google's color picker for Custom CSS Color Hex Codes </p>
 
