@@ -33,7 +33,7 @@ The ReadMe file is visually appealing and outlines how to get started on the app
 <br> Created and shared repository alongside initial ReadMe format </b> 
 <p> Added Minty Bootswatch theme into project design </p>
 <p> Git Changes trouble shooting to fix push and branch errors </p>
-<p> Added "Welcome" page that was named "Start Here" on the navigation bar. Also added visuals with alt. text to both pages for cohesion of pages. "Start Here" will include overview and about information which may change as we narrow down ideas for our websites function and a table for team information. Created a CSS "box" as a style option used for blocking paragraphs together on my page. Team table created with name, role and class information about group members. Table was formatted using bootstrap and custom style to blend in with CSS box and add unity. 
+<p> Added "Welcome" page that was named "Start Here" on the navigation bar. Also added visuals with alt. text to both pages for cohesion of pages. "Start Here" will include overview and about information which may change as we narrow down ideas for our websites function and a table for team information. Created a CSS "box" as a style option used for blocking paragraphs together on my page. Team table created with name, role and class information about group members. Table was formatted using bootstrap and custom style to blend in with CSS box and add unity. Added Javascript element to hide the team table and to make the table re-appear on the Welcome page.
 </p>
  
 <strong> 4. Resources </strong>
