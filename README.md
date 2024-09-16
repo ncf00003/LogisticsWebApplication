@@ -42,8 +42,8 @@ The ReadMe file is visually appealing and outlines how to get started on the app
 <p> https://www.markdownguide.org/basic-syntax/ <br>
 Markdownguide used as a format reference </b> </p>  
 <p> https://www.w3schools.com/bootstrap5/bootstrap_containers.php <br>
-<br>https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b>
-Both Websites used as syntax reference for Bootstrap Elements </b>
+https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
+</b> Both Websites used as syntax reference for Bootstrap Elements </b>
 </p>
 <p> Google's color picker for Custom CSS Color Hex Codes </p>
 
