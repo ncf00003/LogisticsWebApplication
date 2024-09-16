@@ -22,17 +22,28 @@ body {
 }
 
 /* Natalia's CSS Template */
-/* Colors: #D3FDF3 - pale mint to go with theme */
+/* Colors: #B7EEDE - pale mint to go with theme 
 
+*/
 /* Modify to make H2 more impactfull */
 h2 {
     color: var(--bs-heading-color);
 }
 
-blockquote {
-    background-color: #D3FDF3;
-    background-position: center;
-    --bs-border-width: 5px;
-    --bs-border-style: solid;
-    --bs-border-color: #eceeef;
+h3 {
+    padding-top: 15px;
+    padding-bottom: 7px;
+    color: #78c2ad;
+}
+
+
+box {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    border-radius: 3px;
+    border-color: #B7EEDE;
+    background-color: mintcream;
 }
