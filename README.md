@@ -49,7 +49,8 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 
 ## Leonardo Cuellar
 <strong> 1. Competitive Development </strong>
-<br> </b> 
+<br>Samsara is a fleet management system that provides estimated route times for logistics companies.</b> 
+<p>The software uses weather data (from the weather channel) to calculate delivery times and enables real-time trailer tracking. It also integrates data from environmental monitoring hardware to update estimated times and distances during transit. However, the software apparently doesn't use historical data to refine estimations or offer a dynamic quoting system for logistics companies to enhance productivity and improve quotes. The site offers Software as a Service (SaaS) solutions and seems to be built with Vue.js for the front-end. Buttons and other elements use Bootstrap naming conventions, and I found 22 CSS files with custom Bootstrap styling.</p>
 
 <strong> 2. GitHub Repository Research </strong>
 <br> </b> 
