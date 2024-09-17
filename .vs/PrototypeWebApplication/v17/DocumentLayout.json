@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\prototypewebapplication\\prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\prototypewebapplication\\prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,24 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAH4AAACA/////78twGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:08:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "bootstrap.css",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAAGsSAAAAAAAAAAAAAMcBAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAFISAADAzMzMzIwjwMcBAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-16T16:03:13.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\wwwroot\\css\\site.css",
@@ -52,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml*",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Welcome.cshtml*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAE0AAABJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-16T15:22:55.642Z",
               "EditorCaption": ""
