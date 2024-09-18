@@ -64,7 +64,8 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 <br>ChatGPT</b>
 <p>Prompt 1: Make a sample privacy policy for a Web Application that makes dynamic quotes for logistic companies based on weather data from the locations in the route.</p
 <p>Prompt 2: How can I style nicely the table of contents for this privacy policy using HTML and CSS?</p>
-<br>[W3schools](https://www.w3schools.com/html/html_tables.asp)</b>
+
+<br>[W3schools](https://www.w3schools.com/html/html_tables.asp)</b> 
 <br>[Codecademy Markdown](https://www.codecademy.com/resources/docs/markdown/links)</b>
 
 ## Luke Chitt
