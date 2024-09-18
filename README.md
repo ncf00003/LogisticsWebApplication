@@ -9,8 +9,8 @@ of shipping times, routing, and tracking information.
 <p> Crucially, this web applicaiton will need a creative name in the future. Outside of visual aspects which will improve as we work,
 we need to continue improving functional aspects on our pages. 
 </p>
-<p> Front-end considerations are...</p>
-<p> Back-end considerations are... </p>
+<p> Front-end considerations are more visually appealing pages including relevant graphic. Additionally, we aim to add more interactive features around logistics routes, tracking, schedules. </p>
+<p> Back-end considerations are inclusion of a database and further information so users will be able to search specific information easily.</p>
 
 # Collective Research Findings
 ## Natalia Furmanek 
