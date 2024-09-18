@@ -48,3 +48,43 @@ box {
     background-color: mintcream;
 }
 
+/* Leonardo's CSS Template */
+/* Table of Contents CSS */
+#tocBtn{
+    margin-top:10px;
+}
+.toc {
+    max-width: 300px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+    .toc h2 {
+        font-size: 1.2em;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+
+    .toc ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        .toc ul li {
+            margin: 10px 0;
+        }
+
+            .toc ul li a {
+                text-decoration: none;
+                color: #007bff;
+                font-size: 1em;
+                transition: color 0.3s ease;
+            }
+
+                .toc ul li a:hover {
+                    color: #0056b3;
+                }

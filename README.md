@@ -58,9 +58,13 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 
 
 <strong> 3. Prototype Development </strong>
-<br>I developed the Privacy Policy page.</b>
-<p>Although it's automatically added to the navigation by the .NET application, I believe it's crucial for any business. In creating this page, I used h2 and h3 headings. I should disclose that I used ChatGPT to generate sample text for the policy at this stage. When the web app goes to market, we'll update it to ensure customers understand what data and information we collect. I added IDs to the headings for later reference in the table of contents. For the table of contents, I created a table with headers and added links to different sections of the privacy policy in the rows. I used a divider with a class to add custom CSS to the table of contents. As mentioned in Tuesday's class, ChatGPT is really good with CSS!</p>
+<br>I developed the Privacy Policy (Privacy.cshtml) page.</b>
+<p>I developed the Privacy Policy page. Although it's automatically added to the navigation by the .NET application, I believe it's crucial for any business. In creating this page, I used h2 and h3 headings. I should disclose that I used ChatGPT to generate sample text for the policy at this stage. When the web app goes to market, we'll update it to ensure customers understand what data and information we collect.</p>
+<p>I added IDs to the headings for later reference in the table of contents. For the table of contents, I created a table with headers and added links to different sections of the privacy policy in the rows. I used a divider with a class to add custom CSS to the table of contents. As mentioned in Tuesday's class, ChatGPT is really good with CSS!</p>
+<p>Additionally, I added a button with the Bootstrap button class "btn-outline-secondary". This button's function is to hide or show the table of contents, providing users with a more interactive experience.</p>
+
 <strong> 4. Resources </strong>
+
 <br>ChatGPT</b>
 <p>Prompt 1: Make a sample privacy policy for a Web Application that makes dynamic quotes for logistic companies based on weather data from the locations in the route.</p
 <p>Prompt 2: How can I style nicely the table of contents for this privacy policy using HTML and CSS?</p>
