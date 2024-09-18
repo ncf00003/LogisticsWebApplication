@@ -76,10 +76,13 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 
 ## Luke Chitt
 <strong> 1. Competitive Development </strong>
-<br> </b> 
+<br>[FreightQuote](https://www.freightquote.com/track-shipment/) allows the user to track their shipments by entering their BOL number in a search engine to get instant freight tracking information.</b>
+<p>The main search bar is on the homepage along with some options above. On the top of the main page there are three dropdown options that allows the user to navigate and filter through the different results. For example there is an option to search for just Canadian shipments, and a way to search specific sized shipments. There is another option that directs the user to different pages that explain how the supply chain system works, allowing users to learn about the shipping/trucking industry. Finally, there is a shortcut to the websites rewards program page. This lets users sign in and receive rewards depending on how much the website is used or what it is used for.</p>
+<p>After sifting though the websites code, I was able to find some different functionalities that the website utilizes. The main search bar has a button that uses the placeholder and onclick attributes in order to let the user run the search engine for whatever information they may need from the website. The CSS class for the button as well as the search bar allow me to see the height, width, color, display type, etc. When inspecting the header of the website, it shows the different classes used for each button and dropdown menu. It reveals each image source used for each icon, including the sign in and the website logo icon. Though after looking through the code, I was not able to find any evidence for bootstrap usage.</p>
 
 <strong> 2. GitHub Repository Research </strong>
-<br> </b> 
+<br>[Abuad Deliveries](https://github.com/OmoruyiOhuoba/ABUAD-DELIVERIES) allows users to perform operations that manage/track different couriers and parcels.</b>
+<p>This repository utilizes three different user groups. Admins, customers, and drivers. It has custom built API’s to delete different couriers, or update their orders. There is a login function with a database of users. Each user has information linked to them including their address, name, mobile number, etc. The website also generates a consignment number during the billing process for each product. The website also has a delivery system that shows users where a current consignment is, how long it will take to reach its destination, and a final date of arrival. You are also able to update the status of a consignment if it is not delivered on time.</p>
 
 <strong> 3. Prototype Development </strong>
 <br> </b> 
