@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
               "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAH4AAACA/////78twGEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-17T20:08:55.584Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ViewState": "AgIAAFISAADAzMzMzIwjwMcBAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-16T16:03:13.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T16:03:13.361Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\css\\site.css",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-16T15:23:39.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T15:23:39.397Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T15:22:55.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T15:22:55.642Z"
             }
           ]
         }

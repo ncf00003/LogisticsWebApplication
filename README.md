@@ -53,7 +53,9 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 <p>The software uses weather data (from the weather channel) to calculate delivery times and enables real-time trailer tracking. It also integrates data from environmental monitoring hardware to update estimated times and distances during transit. However, the software apparently doesn't use historical data to refine estimations or offer a dynamic quoting system for logistics companies to enhance productivity and improve quotes. The site offers Software as a Service (SaaS) solutions and seems to be built with Vue.js for the front-end. Buttons and other elements use Bootstrap naming conventions, and I found 22 CSS files with custom Bootstrap styling.</p>
 
 <strong> 2. GitHub Repository Research </strong>
-<br> </b> 
+<br>[Fleetbase](https://github.com/fleetbase/fleetbase?tab=readme-ov-file#-features) is an open-source modular logistics and supply chain operating system (LSOS).</b> 
+<p>Being open-source gives us the advantage of accessing specific scripts and having a good base of what the market currently uses. It also has a driver app, ensuring we address not only our primary customer (the logistics company) but also the drivers. As a finalized, customer-facing product, it's frequently updated by the community and includes the latest industry features. It's developed in containers, which is a plus as we can see how these business applications work and operate, offering infinite scalability. It also has dashboard creation functionality for visibility into operations. I think it's an all-encompassing GitHub repository we can refer to when we need direction, scope, or more features for the web application.</p>
+
 
 <strong> 3. Prototype Development </strong>
 <br> </b> 
