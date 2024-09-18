@@ -74,7 +74,7 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 [W3schools](https://www.w3schools.com/html/html_tables.asp)
 [Codecademy Markdown](https://www.codecademy.com/resources/docs/markdown/links)
 
-## Luke Chitt
+## Luke Chittenden
 <strong> 1. Competitive Development </strong>
 <br>[FreightQuote](https://www.freightquote.com/track-shipment/) allows the user to track their shipments by entering their BOL number in a search engine to get instant freight tracking information.</b>
 <p>The main search bar is on the homepage along with some options above. On the top of the main page there are three dropdown options that allows the user to navigate and filter through the different results. For example there is an option to search for just Canadian shipments, and a way to search specific sized shipments. There is another option that directs the user to different pages that explain how the supply chain system works, allowing users to learn about the shipping/trucking industry. Finally, there is a shortcut to the websites rewards program page. This lets users sign in and receive rewards depending on how much the website is used or what it is used for.</p>
@@ -85,7 +85,14 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 <p>This repository utilizes three different user groups. Admins, customers, and drivers. It has custom built API’s to delete different couriers, or update their orders. There is a login function with a database of users. Each user has information linked to them including their address, name, mobile number, etc. The website also generates a consignment number during the billing process for each product. The website also has a delivery system that shows users where a current consignment is, how long it will take to reach its destination, and a final date of arrival. You are also able to update the status of a consignment if it is not delivered on time.</p>
 
 <strong> 3. Prototype Development </strong>
-<br> </b> 
+<br>I developed the Learn page dedicated to informing the user about the ins and outs of parcel shipping</b> 
+<p>A page dedicated to explaining how parcel shipping works is essential for a web app like ours. It serves to help users learn about the complexities of shipping, such as estimated delivery times, shipping zones, and tracking processes. This helps improve user confidence and reduces confusion. By listing common questions like shipping times and tracking numbers, the page is able to reduce the number of customer support inquiries. Not only does this help the user with confusion, it also fosters trust, as users gain a better understanding of what happens with their shipments.</p>
 
 <strong> 4. Resources </strong>
-<br> </b> 
+
+<br>ChatGPT</b>
+<p>Prompt: I am creating a webpage that aims to make a visually appealing overview of shipping times, routing, and tracking information. Write some information about parcel shipping that focuses on teaching new users how it works.</p>
+<p>[W3Schools - Tables](https://www.w3schools.com/html/html_tables.asp)</p>
+<p>[W3Schools - Formatting](https://www.w3schools.com/html/html_formatting.asp)</p>
+<p>[Markdown]https://www.markdownguide.org/basic-syntax/</p>
+<p>I also used my teammates material as a reference to support my work.</p>
