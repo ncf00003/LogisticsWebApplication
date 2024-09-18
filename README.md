@@ -58,11 +58,14 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 
 
 <strong> 3. Prototype Development </strong>
-<br> </b> 
-
+<br>I developed the Privacy Policy page.</b>
+<p>Although it's automatically added to the navigation by the .NET application, I believe it's crucial for any business. In creating this page, I used h2 and h3 headings. I should disclose that I used ChatGPT to generate sample text for the policy at this stage. When the web app goes to market, we'll update it to ensure customers understand what data and information we collect. I added IDs to the headings for later reference in the table of contents. For the table of contents, I created a table with headers and added links to different sections of the privacy policy in the rows. I used a divider with a class to add custom CSS to the table of contents. As mentioned in Tuesday's class, ChatGPT is really good with CSS!</p>
 <strong> 4. Resources </strong>
-<br> </b> 
-
+<br>ChatGPT</b>
+<p>Prompt 1: Make a sample privacy policy for a Web Application that makes dynamic quotes for logistic companies based on weather data from the locations in the route.</p
+<p>Prompt 2: How can I style nicely the table of contents for this privacy policy using HTML and CSS?</p>
+<br>[W3schools](https://www.w3schools.com/html/html_tables.asp)</b>
+<br>[Codecademy Markdown](https://www.codecademy.com/resources/docs/markdown/links)</b>
 
 ## Luke Chitt
 <strong> 1. Competitive Development </strong>
