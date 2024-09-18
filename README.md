@@ -68,6 +68,8 @@ https://getbootstrap.com/docs/5.3/content/tables/#bordered-tables </b> <br>
 <br>ChatGPT</b>
 <p>Prompt 1: Make a sample privacy policy for a Web Application that makes dynamic quotes for logistic companies based on weather data from the locations in the route.</p
 <p>Prompt 2: How can I style nicely the table of contents for this privacy policy using HTML and CSS?</p>
+<p>I also used Notion AI's "improve writing" feature, powered by ChatGPT, to enhance the paragraphs in this readme and better organize my ideas.</p>
+<p>The resources consulted during this assignment were invaluable in creating a cohesive, user-friendly, and interactive page. Leveraging generative AI proved particularly useful for styling the page and establishing a solid foundation for the Privacy Policy—an essential component of any application.</p>
 
 [W3schools](https://www.w3schools.com/html/html_tables.asp)
 [Codecademy Markdown](https://www.codecademy.com/resources/docs/markdown/links)
