@@ -4557,11 +4557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MISTUser\\Source\\Repos\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\MISTUser\\Source\\Repos\\ncf00003\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
       "projectName": "PrototypeWebApplication",
-      "projectPath": "C:\\Users\\MISTUser\\Source\\Repos\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
+      "projectPath": "C:\\Users\\MISTUser\\Source\\Repos\\ncf00003\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
       "packagesPath": "C:\\Users\\MISTUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MISTUser\\Source\\Repos\\PrototypeWebApplication\\PrototypeWebApplication\\obj\\",
+      "outputPath": "C:\\Users\\MISTUser\\Source\\Repos\\ncf00003\\LogisticsWebApplication\\PrototypeWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MISTUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
