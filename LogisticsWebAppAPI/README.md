@@ -1,5 +1,7 @@
-# LogisticsWebAppAPI (Assignment 4)
-### Overview
+# LogisticsWebAppAPIs (Assignment 4)
+## Overview
+## User Actions
+## Functional Pages
 
 # Collaborative Work
 ## Natalia Furmanek 
