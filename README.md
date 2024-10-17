@@ -1,4 +1,4 @@
-# PrototypeWebApplication
+# PrototypeWebApplication(Assignment 2 ReadMe) 
 ### Project Overview
 We plan to create a web app based on dynamic routes for logistics (shipping) companies. 
 <p> This is our basic prototype with background research. We aim to make a visually appealing overview
