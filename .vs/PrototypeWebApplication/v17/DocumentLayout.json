@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\source\\repos\\prototypewebapplication\\prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\source\\repos\\prototypewebapplication\\prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\source\\repos\\prototypewebapplication\\prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\source\\repos\\prototypewebapplication\\prototypewebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\source\\repos\\prototypewebapplication\\prototypewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\source\\repos\\prototypewebapplication\\prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,86 +34,77 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T21:07:00.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T21:07:00.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\js\\site.js",
               "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\js\\site.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-18T21:09:13.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T21:09:13.726Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
               "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\css\\site.css",
               "ViewState": "AgIAABIAAADgMzMzM/MmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-18T20:21:35.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T20:21:35.471Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
               "ViewState": "AgIAAA4AAABgZmZmZuYswAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T15:22:55.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T15:22:55.642Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T20:08:55.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T20:08:55.584Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Learn.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Learn.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\PrototypeWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Learn.cshtml",
-              "ViewState": "AgIAAEAAAABAMTMzM7MiwFYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T21:22:05.152Z",
               "EditorCaption": ""
