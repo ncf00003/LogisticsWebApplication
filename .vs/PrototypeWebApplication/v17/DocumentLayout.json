@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\logisticswebappapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\logisticswebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -13,18 +13,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\logisticswebappapi\\hw4(1)(2).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\hw4(1)(2).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\logisticswebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -44,7 +32,7 @@
               "RelativeDocumentMoniker": "LogisticsWebAppAPI\\HW4(1)(2).md",
               "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\HW4(1)(2).md",
               "RelativeToolTip": "LogisticsWebAppAPI\\HW4(1)(2).md",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAB8AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABgAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-20T00:32:55.864Z",
               "EditorCaption": ""
@@ -64,53 +52,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\appsettings.json",
               "RelativeDocumentMoniker": "LogisticsWebAppAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\appsettings.json",
               "RelativeToolTip": "LogisticsWebAppAPI\\appsettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAACdAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-20T00:19:19.477Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\README.md",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\README.md",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\README.md",
-              "RelativeToolTip": "LogisticsWebAppAPI\\README.md",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-17T19:10:55.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T21:07:00.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Learn.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Learn.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Learn.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T21:22:05.152Z"
             }
           ]
         }
