@@ -21,7 +21,8 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 ## Natalia Furmanek 
 <strong> 1. Project Work</strong>
 <br> Created API folder and moved SQL code from Assignment 2 into Repository under 'SQL' Folder.
-</br> Connected .json files to SQL Database, both API and Application. <br>
+</br> Connected .json files to SQL Database, both API and Application. 
+<br> Worked through Scaffolding and reverse engineering of database with Microsoft.EntityFrameworkCore.Design and Microsoft.EntityFrameworkCore.SqlServer </br>
 
 <strong> 2. API: Purpose, Inputs, and Outputs</strong>
 <br> NFDeliveryTrackingService
