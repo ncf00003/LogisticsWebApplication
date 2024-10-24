@@ -24,13 +24,15 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 </br> Connected .json files to SQL Database, both API and Application. <br>
 
 <strong> 2. API: Purpose, Inputs, and Outputs</strong>
-<br> View Customer Information: Using SQL SPDelivery Tracking
+<br> NFDeliveryTrackingService
 </br> 
-<p> View Weather Information: Using Web Resource
+<p>
 <br> 
 </p> 
-<strong> 3. Resources </strong>
-<br>
+<strong> 3. Resources </strong> 
+
+[Medium CRUD Operations Article](https://medium.com/@jaydeepvpatil225/crud-operation-using-entity-framework-core-and-stored-procedure-in-net-core-6-web-api-65faf6f019f0)
+<br> Used as a reference for specific operations.
 
 
 ## Leonardo Cuellar
