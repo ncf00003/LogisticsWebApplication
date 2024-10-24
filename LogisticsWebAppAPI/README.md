@@ -5,10 +5,9 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 
 ### Dynamic Pages
 <strong> 1. Weather Forcast Page </strong>
+[Weather API](https://www.weather.gov/documentation/services-web-api)
 <br> Can be used to suggest delays to user orders or possible issues in transit for drivers. </br>
 
-[Weather API](https://www.weather.gov/documentation/services-web-api)
-</br>
 <strong> 2. </strong>
 <br> </br>
 <strong> 3. </strong>
