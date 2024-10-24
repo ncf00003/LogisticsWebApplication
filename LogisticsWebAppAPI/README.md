@@ -9,9 +9,10 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 ## Natalia Furmanek 
 <strong> 1. Project Work</strong>
 <br> Created API folder and moved SQL code from Assignment 2 into Repository under 'SQL' Folder.
-<p> Connected .json files to SQL Database, both API and Application. </p>
+</br> Connected .json files to SQL Database, both API and Application. <br>
 
 <strong> 2. API: Purpose, Inputs, and Outputs</strong>
+<p> View Customer Information: 
 
 <strong> 3. Resources </strong>
 <br> Climate API for Group Incorportaion [Open-Meteo](https://github.com/open-meteo/open-meteo)
