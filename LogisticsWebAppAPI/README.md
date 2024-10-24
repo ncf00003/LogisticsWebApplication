@@ -18,7 +18,7 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 <br> 
 </p> 
 <strong> 3. Resources </strong>
-<br> Climate API for Group Incorportaion [Open-Meteo](https://github.com/open-meteo/open-meteo)
+<br> Climate API for Group Incorportaion [API Web Service](https://www.weather.gov/documentation/services-web-api)
 
 
 ## Leonardo Cuellar
