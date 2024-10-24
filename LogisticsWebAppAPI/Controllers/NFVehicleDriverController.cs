@@ -1,4 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿/* 
+ * Add all off your using statements and register service with application through program.cs file
+ */
+using Microsoft.AspNetCore.Mvc;
 
 namespace LogisticsWebAppAPI.Controllers
 {

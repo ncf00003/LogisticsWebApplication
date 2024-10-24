@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿// Always register service with the program "add scoped service" 
+
+using Microsoft.AspNetCore.Mvc;
 
 namespace LogisticsWebAppAPI.Controllers
 {
