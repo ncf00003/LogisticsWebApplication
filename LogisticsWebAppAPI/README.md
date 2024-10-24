@@ -9,7 +9,8 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 <br> Can be used to suggest delays to user orders or possible issues in transit for drivers. </br>
 
 <strong> 2. Delivery Tracking </strong>
-<br> Users can enter their unique shipment and user ids to gain information about their shipment status and delivery. </br>
+<br> Users can enter their unique shipment and user ids to gain information about their shipment status and delivery. <p>
+
 <strong> 3. </strong>
 <br> </br>
 <strong> 4. </strong>
