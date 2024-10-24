@@ -12,8 +12,11 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 </br> Connected .json files to SQL Database, both API and Application. <br>
 
 <strong> 2. API: Purpose, Inputs, and Outputs</strong>
-<p> View Customer Information: 
-
+<br> View Customer Information: Using SQL SPDelivery Tracking
+</br> 
+<p> View Weather Information: Using Web Resource
+<br> 
+</p> 
 <strong> 3. Resources </strong>
 <br> Climate API for Group Incorportaion [Open-Meteo](https://github.com/open-meteo/open-meteo)
 
