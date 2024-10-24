@@ -7,28 +7,24 @@
       "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\logisticswebappapi\\hw4(1)(2).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\hw4(1)(2).md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\logisticswebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\learn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HW4(1)(2).md",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\HW4(1)(2).md",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\HW4(1)(2).md",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\HW4(1)(2).md",
+              "RelativeToolTip": "LogisticsWebAppAPI\\HW4(1)(2).md",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-20T00:32:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\appsettings.json",
+              "RelativeToolTip": "PrototypeWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T00:25:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\appsettings.json",
+              "RelativeToolTip": "LogisticsWebAppAPI\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAACdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T00:19:19.477Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,14 +83,14 @@
               "RelativeDocumentMoniker": "LogisticsWebAppAPI\\README.md",
               "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\LogisticsWebAppAPI\\README.md",
               "RelativeToolTip": "LogisticsWebAppAPI\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-17T19:10:55.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
@@ -63,60 +98,11 @@
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T21:07:00.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-18T21:09:13.726Z"
+              "WhenOpened": "2024-09-18T21:07:00.138Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "PrototypeWebApplication\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABIAAADgMzMzM/MmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-18T20:21:35.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Welcome.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Welcome.cshtml",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Welcome.cshtml",
-              "ViewState": "AgIAAA4AAABgZmZmZuYswAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T15:22:55.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAACsAAAAAAAAAAAAswEEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T20:08:55.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Learn.cshtml",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\Learn.cshtml",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\Learn.cshtml",
@@ -124,8 +110,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\Pages\\Learn.cshtml",
               "ViewState": "AgIAAEgAAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T21:22:05.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T21:22:05.152Z"
             }
           ]
         }
