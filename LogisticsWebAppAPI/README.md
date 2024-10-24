@@ -4,6 +4,8 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 ### User Actions
 
 ### Dynamic Pages
+<strong> Weather Forcast Page </strong>
+<br> Can be used to suggest delays to user orders or possible issues in transit for drivers.
 
 # Collaborative Work
 ## Natalia Furmanek 
