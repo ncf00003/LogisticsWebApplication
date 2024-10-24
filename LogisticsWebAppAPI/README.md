@@ -8,8 +8,8 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 [Weather API](https://www.weather.gov/documentation/services-web-api)
 <br> Can be used to suggest delays to user orders or possible issues in transit for drivers. </br>
 
-<strong> 2. </strong>
-<br> </br>
+<strong> 2. Delivery Tracking </strong>
+<br> Users can enter their unique shipment and user ids to gain information about their shipment status and delivery. </br>
 <strong> 3. </strong>
 <br> </br>
 <strong> 4. </strong>
