@@ -12,9 +12,11 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 <br> Users can enter their unique shipment and user ids to gain information about their shipment status and delivery. <p>
 
 <strong> 3. </strong>
-<br> </br>
+<br> <p>
+
 <strong> 4. </strong>
 <br> </br>
+
 # Collaborative Work
 ## Natalia Furmanek 
 <strong> 1. Project Work</strong>
