@@ -19,7 +19,7 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 </p> 
 <strong> 3. Resources </strong>
 <br> Climate API for Group Incorportaion </br>
-[API Web Service](https://www.weather.gov/documentation/services-web-api)
+[API Web Service](https://www.weather.gov/documentation/services-web-api/)
 
 
 ## Leonardo Cuellar
