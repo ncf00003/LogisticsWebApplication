@@ -17,16 +17,18 @@ namespace LogisticsWebAppAPI.Repositories
         {
             _dbContext = dbContext;
         }
-        // Define Methods based on stored procudures
-        public async Task<int> DeliveryTrackingRead(User user, Shipment shipment)
+        // Define Methods based on stored procudures -- parameters must be in specific table
+   
+        // Search Shipment status by Shipment ID = read details from stored proc based on ShipID
+        public async Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId)
         {
-            // parameters must be in specific table
-            var parameter = new List<SqlParameter>();
-            parameter.Add(new SqlParameter("@userid", user.Userid));
-
-            parameter.Add(new SqlParameter("@shipmentid", shipment.Shipmentid));
-
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec spDeliveryTracking @userid, @shipmentid", parameter.ToArray());
+            var param1 = new SqlParameter("@ShipmentId", ShipmentId);
+            var param2 = new SqlParameter("@userid", userId);
+            var ShipmentDetails = await Task.Run(() => _dbContext.shipment
+                            .FromSqlRaw(@"exec spDeliveryTracking @userid, @shipmentid", param1, param2).ToListAsync());
+            return ShipmentDetails;
+            // Alternate Return Code: 
+            //return await _dbContext.Database.ExecuteSqlRawAsync("exec spDeliveryTracking @userid, @shipmentid", parameter.ToArray());
         }
 
 

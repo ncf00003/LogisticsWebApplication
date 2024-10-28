@@ -1,7 +1,19 @@
+// add using statements for integration
+using LogisticsWebAppAPI.Data;
+using LogisticsWebAppAPI.Repositories;
+using Microsoft.Data.SqlClient;
+using Microsoft.EntityFrameworkCore;
+
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add NF Services
+builder.Services.AddScoped<INFDeliveryTracking, NFDeliveryTrackingService>();
+builder.Services.AddDbContext<NFDbContextClass>();
 
+
+
+// Add services to the container.
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -17,7 +29,5 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();
