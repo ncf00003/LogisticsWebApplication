@@ -22,13 +22,16 @@ namespace LogisticsWebAppAPI.Repositories
         // Search Shipment status by Shipment ID = read details from stored proc based on ShipID
         public async Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId)
         {
+            //define needed parameters
             var param1 = new SqlParameter("@ShipmentId", ShipmentId);
             var param2 = new SqlParameter("@userid", userId);
-            var ShipmentDetails = await Task.Run(() => _dbContext.shipment
-                            .FromSqlRaw(@"exec spDeliveryTracking @userid, @shipmentid", param1, param2).ToListAsync());
-            return ShipmentDetails;
-            // Alternate Return Code: 
-            //return await _dbContext.Database.ExecuteSqlRawAsync("exec spDeliveryTracking @userid, @shipmentid", parameter.ToArray());
+
+            var shipmentDetails = await Task.Run(() => _dbContext.shipment
+                .FromSqlRaw("exec spDeliveryTracking @userid, @shipmentid", param1, param2).ToListAsync());
+            return shipmentDetails;
+            //only 1 method because stored proc is based on info that is considered read only to users, this is like searching on an order based on 
+            //the given shipment id and your email (functioning as userid). 
+        
         }
 
 

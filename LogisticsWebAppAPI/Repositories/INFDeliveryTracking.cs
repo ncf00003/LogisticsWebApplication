@@ -1,7 +1,5 @@
 ﻿// import data folder
 using LogisticsWebAppAPI.Data;
-
-
 namespace LogisticsWebAppAPI.Repositories
 {
     public interface INFDeliveryTracking

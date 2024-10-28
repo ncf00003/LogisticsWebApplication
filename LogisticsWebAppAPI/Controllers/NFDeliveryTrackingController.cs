@@ -1,11 +1,9 @@
 ﻿// Always register service with the program "add scoped service" 
-using LogisticsWebAppAPI.Data;
 using LogisticsWebAppAPI.Repositories;
-using Microsoft.Data.SqlClient;
+using LogisticsWebAppAPI.Data;
 using Microsoft.AspNetCore.Http;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
-
+using System.Collections.Generic;
 namespace LogisticsWebAppAPI.Controllers
 {
     [Route("api/[controller]")]
@@ -19,28 +17,17 @@ namespace LogisticsWebAppAPI.Controllers
         } */
         private readonly INFDeliveryTracking NFDeliveryTrackingService;
 
-        public NFDeliveryTrackingController(INFDeliveryTracking NFDeliveryTrackingService)
+        public NFDeliveryTrackingController(INFDeliveryTracking DeliveryTrackingService)
         {
-            this.NFDeliveryTrackingService = NFDeliveryTrackingService;
+            this.NFDeliveryTrackingService = DeliveryTrackingService;
         }
-        /* // Read all Shipment Information
-         * [HttpGet("getproductlist")]
-        public async Task<List<Product>> GetProductListAsync()
-        {
-            try
-            {
-                return await productService.GetProductListAsync();
-            }
-            catch
-            {
-                throw;
-            }
-        }
+        /* Read all Shipment Information
+         * Figure out web testing later
          */
 
         [HttpGet("GetShipmentId")]
         // Get specific info on shipment
-        public async Task<IEnumerable<Shipment>?> GetShipmentIdAsync(int ShipmentId, int userId)
+        public async Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId)
         {
             try
             {
@@ -56,7 +43,6 @@ namespace LogisticsWebAppAPI.Controllers
                 throw;
             }
         }
-
 
     }
 }

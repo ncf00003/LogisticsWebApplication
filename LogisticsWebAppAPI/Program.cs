@@ -7,8 +7,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add NF Services
+// NF Services
 builder.Services.AddScoped<INFDeliveryTracking, NFDeliveryTrackingService>();
+// Add Second API
+
 builder.Services.AddDbContext<NFDbContextClass>();
 
 
