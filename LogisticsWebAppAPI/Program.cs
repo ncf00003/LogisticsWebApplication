@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 // NF Services
 builder.Services.AddScoped<INFDeliveryTracking, NFDeliveryTrackingService>();
 // Add Second API
-
+builder.Services.AddScoped<INFVehicleDriver, NFVehicleDriverService>();
 builder.Services.AddDbContext<NFDbContextClass>();
 
 

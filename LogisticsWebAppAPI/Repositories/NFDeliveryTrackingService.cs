@@ -22,7 +22,7 @@ namespace LogisticsWebAppAPI.Repositories
         // Search Shipment status by Shipment ID = read details from stored proc based on ShipID
         public async Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId)
         {
-            //define needed parameters
+            //define the needed parameters
             var param1 = new SqlParameter("@ShipmentId", ShipmentId);
             var param2 = new SqlParameter("@userid", userId);
 
