@@ -1,14 +1,16 @@
 # LogisticsWebAppAPIs (Assignment 4)
 ## Overview of Pages
-Continueing with our Prototype Logistics Web app, we will be introducing more functional pages for users by integrating API's.
+Continuing with our Prototype Logistics Web app, we will be introducing more functional pages for users by integrating API's.
+<br> An overview of our 8 Planned pages is listed below:
 ### User Action Pages
 <strong> 1. </strong>
-
+The welcome pages
 <strong> 2. </strong>
-
+Learn page
 <strong> 3. </strong>
-
+Overview of shipping routes
 <strong> 4. </strong>
+
 ### Dynamic Pages
 <strong> 1. Weather Forcast Page </strong>
 [Weather API](https://www.weather.gov/documentation/services-web-api)
@@ -30,21 +32,39 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 </br> Connected .json files to SQL Database, both API and Application. 
 <br> Worked through Scaffolding and reverse engineering of database with Microsoft.EntityFrameworkCore.Design and Microsoft.EntityFrameworkCore.SqlServer </br>
 
-<strong> 2. API: Purpose, Inputs, and Outputs</strong>
-<br> NFDeliveryTrackingService
-</br> 
-<p> NFVehicleDriverService
-<br> 
-</p> 
-<strong> 3. Resources </strong> 
+<strong> 2. NFDeliveryTrackingService API</strong>
+<br> Purpose: Users can enter their user and shipment info
+</br>Inputs: 
+<br> Outputs: 
+<p> 
+<strong> 3. NFVehicleDriverService </strong>
+<br> Purpose:
+</br> Inputs: 
+<br> Outputs: 
+<p> 
+<strong> 4. Resources </strong> 
 
 [Medium CRUD Operations Article](https://medium.com/@jaydeepvpatil225/crud-operation-using-entity-framework-core-and-stored-procedure-in-net-core-6-web-api-65faf6f019f0)
 <br> Used as a reference for specific operations alongside class code.
 
 
 ## Leonardo Cuellar
+<strong> 1. Project Work</strong>
+
+<strong> 2.  API</strong>
+
+<strong> 3.  API</strong>
 
 ## Luke Chittenden
+<strong> 1. Project Work</strong>
 
+<strong> 2.  API</strong>
+
+<strong> 3.  API</strong>
 
 ## Landen Riggleman
+<strong> 1. Project Work</strong>
+
+<strong> 2.  API</strong>
+
+<strong> 3.  API</strong>
