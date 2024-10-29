@@ -1,8 +1,14 @@
 # LogisticsWebAppAPIs (Assignment 4)
 ## Overview of Pages
 Continueing with our Prototype Logistics Web app, we will be introducing more functional pages for users by integrating API's.
-### User Actions
+### User Action Pages
+<strong> 1. </strong>
 
+<strong> 2. </strong>
+
+<strong> 3. </strong>
+
+<strong> 4. </strong>
 ### Dynamic Pages
 <strong> 1. Weather Forcast Page </strong>
 [Weather API](https://www.weather.gov/documentation/services-web-api)
