@@ -8,6 +8,7 @@ public partial class LogisticsWebDataContext : DbContext
 {
     public LogisticsWebDataContext()
     {
+
     }
 
     public LogisticsWebDataContext(DbContextOptions<LogisticsWebDataContext> options)
@@ -28,6 +29,7 @@ public partial class LogisticsWebDataContext : DbContext
     public virtual DbSet<Vehicle> Vehicles { get; set; }
 
     public virtual DbSet<Warehouse> Warehouses { get; set; }
+
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseSqlServer("Name=ConnectionStrings:DefaultConnection");
