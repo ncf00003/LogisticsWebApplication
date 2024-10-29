@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LogisticsWebAppAPI.Data;
 
@@ -17,9 +19,10 @@ public partial class Location
 
     public string PostalCode { get; set; } = null!;
 
+    [NotMapped]
     public virtual ICollection<Shipment> ShipmentDestinationLocations { get; set; } = new List<Shipment>();
-
+    [NotMapped]
     public virtual ICollection<Shipment> ShipmentOriginLocations { get; set; } = new List<Shipment>();
-
+    [NotMapped]
     public virtual ICollection<Warehouse> Warehouses { get; set; } = new List<Warehouse>();
 }
