@@ -4,13 +4,13 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 <br> An overview of our 8 Planned pages is listed below:
 ### User Action Pages
 <strong> 1. </strong>
-The welcome pages
+<br> The welcome pages
 <strong> 2. </strong>
-Learn page
+<br> Learn page
 <strong> 3. </strong>
-Overview of shipping routes
+<br> Overview of shipping routes
 <strong> 4. </strong>
-
+<br>
 ### Dynamic Pages
 <strong> 1. Weather Forcast Page </strong>
 [Weather API](https://www.weather.gov/documentation/services-web-api)
