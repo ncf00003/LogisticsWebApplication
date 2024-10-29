@@ -27,7 +27,7 @@ namespace LogisticsWebAppAPI.Controllers
 
         [HttpGet("GetShipmentId")]
         // Get specific info on shipment
-        public async Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId)
+        public async Task<IEnumerable<DeliveryShipment>> GetShipmentIdAsync(int ShipmentId, int userId)
         {
             try
             {

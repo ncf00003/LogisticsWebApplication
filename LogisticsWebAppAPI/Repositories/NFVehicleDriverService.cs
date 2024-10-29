@@ -22,6 +22,10 @@ namespace LogisticsWebAppAPI.Repositories
             var vehicleDetails = await Task.Run(() => _dbContext.vehicle // has to be lowercase for context class
                 .FromSqlRaw(@"exec spVehicleDrivers @Vehicleid", param).ToListAsync());
             return vehicleDetails;
+
+            /* --- Return should include ---
+                entire table information
+             */
         }
 
 

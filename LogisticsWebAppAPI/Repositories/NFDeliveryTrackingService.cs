@@ -20,16 +20,17 @@ namespace LogisticsWebAppAPI.Repositories
         // Define Methods based on stored procudures -- parameters must be in specific table
    
         // Search Shipment status by Shipment ID = read details from stored proc based on ShipID
-        public async Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId)
+        public async Task<IEnumerable<DeliveryShipment>> GetShipmentIdAsync(int ShipmentId, int userId) // was shipment -- new modify
         {
             //define the needed parameters
             var param1 = new SqlParameter("@ShipmentId", ShipmentId);
-            var param2 = new SqlParameter("@userid", userId);
+            var param2 = new SqlParameter("@Userid", userId);
 
-            var shipmentDetails = await Task.Run(() => _dbContext.shipment
+            var shipmentDetails = await Task.Run(() => _dbContext.deliveryshipment
                 .FromSqlRaw("exec spDeliveryTracking @userid, @shipmentid", param1, param2).ToListAsync());
             return shipmentDetails;
-            //only 1 method because stored proc is based on info that is considered read only to users, this is like searching on an order based on 
+            
+            //stored proc is based on info that is considered read only to users, this is like searching on an order based on 
             //the given shipment id and your email (functioning as userid). 
         
         }

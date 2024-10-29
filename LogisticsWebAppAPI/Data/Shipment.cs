@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LogisticsWebAppAPI.Data;
 
@@ -26,18 +27,19 @@ public partial class Shipment
     public int OriginLocationId { get; set; }
 
     public int DestinationLocationId { get; set; }
+    [NotMapped]
 
     public virtual Location DestinationLocation { get; set; } = null!;
-
+    [NotMapped]
     public virtual Location OriginLocation { get; set; } = null!;
-
+    [NotMapped]
     public virtual Route Route { get; set; } = null!;
-
+    [NotMapped]
     public virtual Tracking? Tracking { get; set; }
-
+    [NotMapped]
     public virtual User User { get; set; } = null!;
-
+    [NotMapped]
     public virtual Vehicle Vehicle { get; set; } = null!;
-
+    [NotMapped]
     public virtual Warehouse Warehouse { get; set; } = null!;
 }
