@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace LogisticsWebAppAPI.Data
 {
@@ -14,6 +15,7 @@ namespace LogisticsWebAppAPI.Data
 	  ,T.LastUpdated
 	  ,T.OrderDate
          */
+        [Key]
         public int ShipmentId { get; set; }
 
         public DateTime? DeliveryDate { get; set; }
