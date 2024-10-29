@@ -3,14 +3,11 @@
 Continuing with our Prototype Logistics Web app, we will be introducing more functional pages for users by integrating API's.
 <br> An overview of our 8 Planned pages is listed below:
 ### User Action Pages
-<strong> 1. </strong>
-<br> The welcome pages
-<strong> 2. </strong>
-<br> Learn page
-<strong> 3. </strong>
-<br> Overview of shipping routes
-<strong> 4. </strong>
-<br>
+1. The welcome pages
+2. Learn page
+3. Overview of shipping routes
+4. 
+
 ### Dynamic Pages
 <strong> 1. Weather Forcast Page </strong>
 [Weather API](https://www.weather.gov/documentation/services-web-api)
@@ -33,12 +30,12 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 <br> Worked through Scaffolding and reverse engineering of database with Microsoft.EntityFrameworkCore.Design and Microsoft.EntityFrameworkCore.SqlServer </br>
 
 <strong> 2. NFDeliveryTrackingService API</strong>
-<br> Purpose: Users can enter their user and shipment info
-</br>Inputs: 
+<br> Purpose: Users can enter their user and shipment info to view shipment information and basic information about their order
+</br>Inputs: @UserID and @ShipmentID
 <br> Outputs: 
 <p> 
 <strong> 3. NFVehicleDriverService </strong>
-<br> Purpose:
+<br> Purpose: Returns Vehicle Information based on Id, allows user to see how many drivers are associated with a truck
 </br> Inputs: 
 <br> Outputs: 
 <p> 
