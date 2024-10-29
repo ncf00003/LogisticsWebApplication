@@ -24,10 +24,7 @@ namespace LogisticsWebAppAPI.Repositories
             return vehicleDetails;
 
             /* --- Return should include ---
-                V.vehicleid,
-	            V.model,
-	            V.vin,
-	            V.plate,
+                entire table information
              */
         }
 
