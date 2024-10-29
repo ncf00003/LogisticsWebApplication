@@ -29,17 +29,17 @@ public partial class Shipment
     public int DestinationLocationId { get; set; }
     [NotMapped]
 
-    public virtual Location DestinationLocation { get; set; } = null!;
+    public virtual Location? DestinationLocation { get; set; } = null!;
     [NotMapped]
-    public virtual Location OriginLocation { get; set; } = null!;
+    public virtual Location? OriginLocation { get; set; } = null!;
     [NotMapped]
-    public virtual Route Route { get; set; } = null!;
+    public virtual Route? Route { get; set; } = null!;
     [NotMapped]
     public virtual Tracking? Tracking { get; set; }
     [NotMapped]
-    public virtual User User { get; set; } = null!;
+    public virtual User? User { get; set; } = null!;
     [NotMapped]
-    public virtual Vehicle Vehicle { get; set; } = null!;
+    public virtual Vehicle? Vehicle { get; set; } = null!;
     [NotMapped]
-    public virtual Warehouse Warehouse { get; set; } = null!;
+    public virtual Warehouse? Warehouse { get; set; } = null!;
 }

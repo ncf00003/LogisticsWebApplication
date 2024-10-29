@@ -9,10 +9,14 @@ var builder = WebApplication.CreateBuilder(args);
 
 // NF Services
 builder.Services.AddScoped<INFDeliveryTracking, NFDeliveryTrackingService>();
+
 // Add Second API
 builder.Services.AddScoped<INFVehicleDriver, NFVehicleDriverService>();
 builder.Services.AddDbContext<NFDbContextClass>();
 
+// LC Services
+builder.Services.AddScoped<ILCApisInterface, LCService>();
+builder.Services.AddDbContext<LCDbContextClass>();
 
 
 // Add services to the container.
