@@ -27,13 +27,13 @@ Continueing with our Prototype Logistics Web app, we will be introducing more fu
 <strong> 2. API: Purpose, Inputs, and Outputs</strong>
 <br> NFDeliveryTrackingService
 </br> 
-<p>
+<p> NFVehicleDriverService
 <br> 
 </p> 
 <strong> 3. Resources </strong> 
 
 [Medium CRUD Operations Article](https://medium.com/@jaydeepvpatil225/crud-operation-using-entity-framework-core-and-stored-procedure-in-net-core-6-web-api-65faf6f019f0)
-<br> Used as a reference for specific operations.
+<br> Used as a reference for specific operations alongside class code.
 
 
 ## Leonardo Cuellar
