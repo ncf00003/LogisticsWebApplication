@@ -6,7 +6,7 @@ namespace LogisticsWebAppAPI.Data;
 
 public partial class Shipment
 {
-    public int Shipmentid { get; set; }
+    public int? Shipmentid { get; set; }
 
     public DateTime? DeliveryDate { get; set; }
 

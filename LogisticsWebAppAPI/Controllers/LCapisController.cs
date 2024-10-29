@@ -42,5 +42,22 @@ namespace LogisticsWebAppAPI.Controllers
                 throw;
             }
         }
+        [HttpGet("SumShipmentsWarehouse")]
+        public async Task<IEnumerable<Shipment>> SumShipmentsWarehouse(int warehouseid)
+        {
+            try
+            {
+                var response = await LCService.SumShipmentsWarehouse(warehouseid);
+                if (response == null)
+                {
+                    return null;
+                }
+                return response;
+            }
+            catch
+            {
+                throw;
+            }
+        }
     }
 }
