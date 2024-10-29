@@ -28,17 +28,18 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 <br> Created API folder and moved SQL code from Assignment 2 into Repository under 'SQL' Folder.
 </br> Connected .json files to SQL Database, both API and Application. 
 <br> Worked through Scaffolding and reverse engineering of database with Microsoft.EntityFrameworkCore.Design and Microsoft.EntityFrameworkCore.SqlServer </br>
+<p> Modified SQL Stored Procedures to include all table called information for API functionality. Updates are found in 'SQL' repository folder, with update listed in new file names. </p>
 
 <strong> 2. NFDeliveryTrackingService API</strong>
-<br> Purpose: Users can enter their user and shipment info to view shipment information and basic information about their order
+<br> Purpose: Users can enter their user and shipment info to <em> get </em> shipment information and basic information about their order
 </br>Inputs: @UserID and @ShipmentID
-<br> Outputs: 
+<br> Outputs: ShipmentId, DeliveryDate, ShipmentType, weight, cost, UserId, currentLocation, lastUpdated, and orderDate
 <p> 
 <strong> 3. NFVehicleDriverService </strong>
-<br> Purpose: Returns Vehicle Information based on Id, allows user to see how many drivers are associated with a truck
-</br> Inputs: 
-<br> Outputs: 
-<p> 
+<br> Purpose: <em> Get </em> Vehicle Information based on Id, allows user to see how many drivers are associated with a truck
+</br> Inputs: @VehicleId
+<br> Outputs: VehicleId, Model, VIN, plate, capacity, driverID, driver, shipments
+</p> 
 <strong> 4. Resources </strong> 
 
 [Medium CRUD Operations Article](https://medium.com/@jaydeepvpatil225/crud-operation-using-entity-framework-core-and-stored-procedure-in-net-core-6-web-api-65faf6f019f0)
