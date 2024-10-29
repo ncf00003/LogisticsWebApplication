@@ -6,7 +6,7 @@ namespace LogisticsWebAppAPI.Repositories
     {
 
         // Read Service Tracking Information by Ship ID (read CRUD)
-        public Task<IEnumerable<Shipment>> GetShipmentIdAsync(int ShipmentId, int userId);
+        public Task<IEnumerable<DeliveryShipment>> GetShipmentIdAsync(int ShipmentId, int userId);
        
 
     }

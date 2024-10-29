@@ -26,6 +26,8 @@ namespace LogisticsWebAppAPI.Data
 
         public DbSet<Shipment> shipment { get; set; }
 
+        public DbSet<DeliveryShipment> deliveryshipment { get; set; }
+
 
         // SP Vehicle Drivers SP
         public DbSet<Vehicle> vehicle { get; set; }
