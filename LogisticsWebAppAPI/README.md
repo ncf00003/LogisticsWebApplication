@@ -47,11 +47,103 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 
 
 ## Leonardo Cuellar
-<strong> 1. Project Work</strong>
+## Leonardo Cuellar
 
-<strong> 2.  API</strong>
+**1. Project Work**
 
-<strong> 3.  API</strong>
+In the backend, I made several additions: I added my DbContext class (LCDbContextClass), my controller (LCapisController), my service (LCService), my interface (ILCApisInterface), and a class to match the stored procedure's output (ShipmentsWarehouse). I also adjusted the database by changing the name of my stored procedure's output column “Number of Shipments” to “ShipmentsNum” to align with the backend. You can find the updated SQL procedures in the [LogisticsAppDatabase](https://github.com/ncf00003/LogisticsWebApp-Database/blob/main/CuellarLeonardoSPs.sql) repository.
+
+**2.  ShipmentAdd API**
+
+**Purpose:** Post HTTP API to add a new shipment to the shipments table. 
+**Inputs:** 
+
+•	@UserID (int): The ID of the user creating the shipment.
+•	@ShipmentID (int, optional): Auto-generated or provided by the caller (in case of updates).
+
+•	DeliveryDate (datetime): The expected delivery date of the shipment.
+•	ShipmentType (string): The type/category of the shipment.
+•	Weight (decimal): The weight of the shipment.
+•	Cost (decimal): The cost associated with the shipment.
+•	VehicleID (int): The ID of the vehicle used for transportation.
+•	RouteID (int): The ID of the route taken for delivery.
+•	WarehouseID (int): The ID of the warehouse associated with the shipment.
+•	OriginLocationID (int): The ID of the origin location for the shipment.
+•	DestinationLocationID (int): The ID of the destination location for the shipment.
+
+JSON input used for testing:
+
+```json
+{
+  "DeliveryDate": "2024-10-29T19:30:51.421Z",
+  "ShipmentType": "Cargo",
+  "Weight": 900.0,
+  "Cost": 1300.0,
+  "UserId": 1,
+  "VehicleId": 2,
+  "RouteId": 3,
+  "WarehouseId": 4,
+  "OriginLocationId": 5,
+  "DestinationLocationId": 6
+}
+```
+
+**Outputs:** 
+
+•	ShipmentId (int): The unique ID of the newly added shipment.
+•	DeliveryDate (datetime): The expected delivery date.
+•	ShipmentType (string): The type of the shipment.
+•	Weight (decimal): The weight of the shipment.
+•	Cost (decimal): The total cost of the shipment.
+•	UserId (int): The ID of the user who created the shipment.
+•	CurrentLocation (string): The current location of the shipment (if available).
+•	LastUpdated (datetime): The last updated timestamp for the shipment record.
+•	OrderDate (datetime): The order creation date.
+
+**3.  SumShipmentsWarehouse API**
+
+**Purpose:** GET HTTP API to retrieve the count of shipments (which I amusingly called "sum") for a specified warehouse (input parameter).
+
+**Inputs:** 
+
+•	@WarehouseID (int): The ID of the warehouse for which the shipment summary is being retrieved.
+**Outputs:**
+
+•	WarehouseID (int): The ID of the warehouse.
+•	Address (string): The address of the warehouse.
+•	State (string): The state where the warehouse is located.
+•	City (string): The city where the warehouse is located.
+•	ShipmentsNum (int): The total number of shipments at the specified warehouse.
+
+**Resources:**
+
+Used ChatGPT to convert SQL to C# parameters:
+Prompt:
+
+This is a add using the spAddShipment procedure with the following parameters:
+
+[SQLParameters]
+
+Change it to the following format for my .net app to execute the procedure:
+
+[Example of Code to convert]
+
+Used ChatGPT to help write read me:
+Prompt:
+
+I am adding a read me for the following API I need the following:
+Inputs: @UserID and @ShipmentID
+Outputs: ShipmentId, DeliveryDate, ShipmentType, weight, cost, UserId, currentLocation, lastUpdated, and orderDate
+Here is my code:
+[C# Code]
+
+Used ChatGPT for sample body to test my GET API Call:
+
+Give me the sample json to test my api:
+These are the parameters:
+[C# Code]
+
+Used NotionAI improve writing feature to proofread readme.
 
 ## Luke Chittenden
 <strong> 1. Project Work</strong>
