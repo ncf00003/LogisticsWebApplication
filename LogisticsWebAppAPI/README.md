@@ -6,7 +6,7 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 1. The welcome pages
 2. Learn page
 3. Overview of shipping routes
-4. 
+4. Log In
 
 ### Dynamic Pages
 <strong> 1. Weather Forcast Page </strong>
@@ -16,11 +16,11 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 <strong> 2. Delivery Tracking </strong>
 <br> Users can enter their unique shipment and user ids to gain information about their shipment status and delivery. <p>
 
-<strong> 3. </strong>
-<br> <p>
+<strong> 3. Warehouse Summary</strong>
+<br> Users can select a warehouse from a dropdown and it will give a summary of information related to the warehouse, such as number of shipments, address, city and state.  <p>
 
-<strong> 4. </strong>
-<br> </br>
+<strong> 4. Shipment Dashboard </strong>
+<br> Users can add a shipment to their application, and get a summary of the current shipments. </br>
 
 # Collaborative Work
 ## Natalia Furmanek 
