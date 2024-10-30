@@ -43,7 +43,7 @@ namespace LogisticsWebAppAPI.Controllers
             }
         }
         [HttpGet("SumShipmentsWarehouse")]
-        public async Task<IEnumerable<Shipment>> SumShipmentsWarehouse(int warehouseid)
+        public async Task<IEnumerable<ShipmentsWarehouse>> SumShipmentsWarehouse(int warehouseid)
         {
             try
             {

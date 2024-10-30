@@ -25,7 +25,7 @@ namespace LogisticsWebAppAPI.Data
         public DbSet<User> user { get; set; }
 
         public DbSet<Shipment> shipment { get; set; }
-
+        public DbSet<ShipmentsWarehouse> shipmentsWarehouse { get; set; }
 
         // SP Vehicle Drivers SP
         public DbSet<Vehicle> vehicle { get; set; }

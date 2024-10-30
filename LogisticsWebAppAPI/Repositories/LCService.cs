@@ -38,10 +38,10 @@ namespace LogisticsWebAppAPI.Repositories
             );
             return result;
         }
-        public async Task<IEnumerable<Shipment>> SumShipmentsWarehouse(int warehouseid)
+        public async Task<IEnumerable<ShipmentsWarehouse>> SumShipmentsWarehouse(int warehouseid)
         {
             var param = new SqlParameter("@warehouseid", warehouseid);
-            var SumShipmentsWarehouse = await Task.Run(() => _dbContext.shipment
+            var SumShipmentsWarehouse = await Task.Run(() => _dbContext.shipmentsWarehouse
                 .FromSqlRaw(@"exec spSumShipmentsWarehouse @warehouseid", param).ToListAsync());
             return SumShipmentsWarehouse;
         }
