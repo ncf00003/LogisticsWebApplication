@@ -57,18 +57,17 @@ In the backend, I made several additions: I added my DbContext class (LCDbContex
 **Purpose:** Post HTTP API to add a new shipment to the shipments table. 
 **Inputs:** 
 
-•	@UserID (int): The ID of the user creating the shipment.
-•	@ShipmentID (int, optional): Auto-generated or provided by the caller (in case of updates).
-
-•	DeliveryDate (datetime): The expected delivery date of the shipment.
-•	ShipmentType (string): The type/category of the shipment.
-•	Weight (decimal): The weight of the shipment.
-•	Cost (decimal): The cost associated with the shipment.
-•	VehicleID (int): The ID of the vehicle used for transportation.
-•	RouteID (int): The ID of the route taken for delivery.
-•	WarehouseID (int): The ID of the warehouse associated with the shipment.
-•	OriginLocationID (int): The ID of the origin location for the shipment.
-•	DestinationLocationID (int): The ID of the destination location for the shipment.
+<br> •	@UserID (int): The ID of the user creating the shipment.
+<br> •	@ShipmentID (int, optional): Auto-generated or provided by the caller (in case of updates).
+<br> •	DeliveryDate (datetime): The expected delivery date of the shipment.
+<br> •	ShipmentType (string): The type/category of the shipment.
+<br> •	Weight (decimal): The weight of the shipment.
+<br> •	Cost (decimal): The cost associated with the shipment.
+<br> •	VehicleID (int): The ID of the vehicle used for transportation.
+<br> •	RouteID (int): The ID of the route taken for delivery.
+<br> •	WarehouseID (int): The ID of the warehouse associated with the shipment.
+<br> •	OriginLocationID (int): The ID of the origin location for the shipment.
+<br> •	DestinationLocationID (int): The ID of the destination location for the shipment.
 
 JSON input used for testing:
 
@@ -89,15 +88,15 @@ JSON input used for testing:
 
 **Outputs:** 
 
-•	ShipmentId (int): The unique ID of the newly added shipment.
-•	DeliveryDate (datetime): The expected delivery date.
-•	ShipmentType (string): The type of the shipment.
-•	Weight (decimal): The weight of the shipment.
-•	Cost (decimal): The total cost of the shipment.
-•	UserId (int): The ID of the user who created the shipment.
-•	CurrentLocation (string): The current location of the shipment (if available).
-•	LastUpdated (datetime): The last updated timestamp for the shipment record.
-•	OrderDate (datetime): The order creation date.
+<br> •	ShipmentId (int): The unique ID of the newly added shipment.
+<br> •	DeliveryDate (datetime): The expected delivery date.
+<br> •	ShipmentType (string): The type of the shipment.
+<br> •	Weight (decimal): The weight of the shipment.
+<br> •	Cost (decimal): The total cost of the shipment.
+<br> •	UserId (int): The ID of the user who created the shipment.
+<br> •	CurrentLocation (string): The current location of the shipment (if available).
+<br> •	LastUpdated (datetime): The last updated timestamp for the shipment record.
+<br> •	OrderDate (datetime): The order creation date.
 
 **3.  SumShipmentsWarehouse API**
 
@@ -106,13 +105,13 @@ JSON input used for testing:
 **Inputs:** 
 
 •	@WarehouseID (int): The ID of the warehouse for which the shipment summary is being retrieved.
-**Outputs:**
+<br> **Outputs:**
 
-•	WarehouseID (int): The ID of the warehouse.
-•	Address (string): The address of the warehouse.
-•	State (string): The state where the warehouse is located.
-•	City (string): The city where the warehouse is located.
-•	ShipmentsNum (int): The total number of shipments at the specified warehouse.
+<br> •	WarehouseID (int): The ID of the warehouse.
+<br> •	Address (string): The address of the warehouse.
+<br> •	State (string): The state where the warehouse is located.
+<br> •	City (string): The city where the warehouse is located.
+<br> •	ShipmentsNum (int): The total number of shipments at the specified warehouse.
 
 **Resources:**
 
