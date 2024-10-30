@@ -33,12 +33,53 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 <strong> 2. NFDeliveryTrackingService API</strong>
 <br> Purpose: Users can enter their user and shipment info to <em> get </em> shipment information and basic information about their order
 </br>Inputs: @UserID and @ShipmentID
+```json
+{
+    "shipmentId": 1,
+    "userId": 1,
+}
+```
 <br> Outputs: ShipmentId, DeliveryDate, ShipmentType, weight, cost, UserId, currentLocation, lastUpdated, and orderDate
+
+```json
+{
+    "shipmentId": 1,
+    "deliveryDate": "2024-10-01T00:00:00",
+    "shipmentType": "Electronics",
+    "weight": 500.25,
+    "cost": 150.75,
+    "userId": 1,
+    "currentLocation": "Los Angeles",
+    "lastUpdated": "2024-10-01T12:00:00",
+    "orderDate": "2024-09-30T08:00:00"
+}
+```
 <p> 
 <strong> 3. NFVehicleDriverService </strong>
-<br> Purpose: <em> Get </em> Vehicle Information based on Id, allows user to see how many drivers are associated with a truck
+<br> Purpose: <em> Get </em> Vehicle Information based on Id, allows user to see driver id and all attributes that are associated with a truck
 </br> Inputs: @VehicleId
+
+```json
+{
+  "vehicleid": 1, 
+}
+```
+
 <br> Outputs: VehicleId, Model, VIN, plate, capacity, driverID, driver, shipments
+
+```json
+{
+    "vehicleid": 1,
+    "model": "Ford F-150",
+    "vin": "1FTFW1ET4EFA94850",
+    "plate": "ABC1234",
+    "capacity": 1000,
+    "driverId": 1,
+    "driver": null,
+    "shipments": []
+}
+```
+
 </p> 
 <strong> 4. Resources </strong> 
 
