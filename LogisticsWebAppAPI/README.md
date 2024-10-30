@@ -47,7 +47,6 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 
 
 ## Leonardo Cuellar
-## Leonardo Cuellar
 
 **1. Project Work**
 
