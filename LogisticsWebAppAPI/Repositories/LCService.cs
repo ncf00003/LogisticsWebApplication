@@ -1,9 +1,4 @@
-﻿/* Add using for api info and Make sure to label all your work
-   - Create Own Controller
-   - Create Context Class
-   - Test Work When Done
- */
-using LogisticsWebAppAPI.Data;
+﻿using LogisticsWebAppAPI.Data;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 
@@ -18,8 +13,11 @@ namespace LogisticsWebAppAPI.Repositories
             _dbContext = dbContext;
         }
 
+        // ShipmentAdd method to add a new shipment
         public async Task<int> ShipmentAdd(Shipment shipment)
         {
+            // SqlParameter is used to pass parameters to the stored procedure
+            // Added parameters to pass to create a new shipment procedure
             var parameter = new List<SqlParameter>();
             parameter.Add(new SqlParameter("@DeliveryDate", shipment.DeliveryDate));
             parameter.Add(new SqlParameter("@ShipmentType", shipment.ShipmentType));
@@ -31,18 +29,24 @@ namespace LogisticsWebAppAPI.Repositories
             parameter.Add(new SqlParameter("@warehouseID", shipment.WarehouseId));
             parameter.Add(new SqlParameter("@OriginLocationID", shipment.OriginLocationId));
             parameter.Add(new SqlParameter("@DestinationLocationID", shipment.DestinationLocationId));
-
-            int result= await _dbContext.Database.ExecuteSqlRawAsync(
+            
+            // Execute the stored procedure
+            int result = await _dbContext.Database.ExecuteSqlRawAsync(
                 "exec spAddShipment @DeliveryDate, @ShipmentType, @Weight, @Cost, @userID, @vehicleID, @routeID, @warehouseID, @OriginLocationID, @DestinationLocationID",
                 parameter.ToArray()
             );
+            // Return the result
             return result;
         }
+        // SumShipmentsWarehouse method to sum the shipments in the warehouse
         public async Task<IEnumerable<ShipmentsWarehouse>> SumShipmentsWarehouse(int warehouseid)
         {
+            // SqlParameter is used to pass parameters to the stored procedure, only one paramater to use procedure
             var param = new SqlParameter("@warehouseid", warehouseid);
+            // Execute the stored procedure
             var SumShipmentsWarehouse = await Task.Run(() => _dbContext.shipmentsWarehouse
                 .FromSqlRaw(@"exec spSumShipmentsWarehouse @warehouseid", param).ToListAsync());
+            // Return the result
             return SumShipmentsWarehouse;
         }
 

@@ -23,8 +23,9 @@ namespace LogisticsWebAppAPI.Data
 
         // Need seperate context connections for each table used in stored procedures
         public DbSet<User> user { get; set; }
-
+        // Added Shipment class to the context class for sps
         public DbSet<Shipment> shipment { get; set; }
+        // Added custom ShipmentsWarehourse class to the context class for sps
         public DbSet<ShipmentsWarehouse> shipmentsWarehouse { get; set; }
 
         // SP Vehicle Drivers SP
