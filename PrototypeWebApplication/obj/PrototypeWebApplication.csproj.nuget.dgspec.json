@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MISTUser\\Source\\Repos\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj": {}
+    "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MISTUser\\Source\\Repos\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj": {
+    "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MISTUser\\Source\\Repos\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
         "projectName": "PrototypeWebApplication",
-        "projectPath": "C:\\Users\\MISTUser\\Source\\Repos\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
+        "projectPath": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
         "packagesPath": "C:\\Users\\MISTUser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MISTUser\\Source\\Repos\\LogisticsWebApplication\\PrototypeWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MISTUser\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,9 +2,12 @@
 
 namespace LogisticsWebAppAPI.Data
 {
+    // Added custom class to return the sum of shipments in the warehouse
     public class ShipmentsWarehouse
     {
-        [Key]
+        // Primary key
+        [Key] 
+        // Added properties to return the sum of shipments in the warehouse
         public int warehouseid { get; set; }
 
         public string Address { get; set; }

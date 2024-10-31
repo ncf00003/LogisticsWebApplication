@@ -8,24 +8,22 @@ namespace LogisticsWebAppAPI.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
+    // Added controller for LCApis
     public class LCapisController : ControllerBase
     {
-        /*public IActionResult Index()
-        {
-            return View();
-        } */
+        // Added service reference for ILCApisInterface
         private readonly ILCApisInterface LCService;
 
+        // Added constructor for LCApisController
         public LCapisController(ILCApisInterface LCservice)
         {
+            // Added service reference for ILCApisInterface
             this.LCService = LCservice;
         }
-        /* Read all Shipment Information
-         * Figure out web testing later
-         */
+
 
         [HttpPost("ShipmentAdd")]
-        // Get specific info on shipment
+        // Create a shipment using the Shipment class
         public async Task<IActionResult> ShipmentAdd(Shipment shipment)
         {
             if (shipment == null)
@@ -42,7 +40,9 @@ namespace LogisticsWebAppAPI.Controllers
                 throw;
             }
         }
+        // Get sum (count) the shipments in the warehouse
         [HttpGet("SumShipmentsWarehouse")]
+        // Get the sum (count) of shipments in the warehouse using the ShipmentsWarehouse class
         public async Task<IEnumerable<ShipmentsWarehouse>> SumShipmentsWarehouse(int warehouseid)
         {
             try
