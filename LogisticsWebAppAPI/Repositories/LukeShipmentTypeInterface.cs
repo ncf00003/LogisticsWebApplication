@@ -1,6 +1,9 @@
-﻿namespace LogisticsWebAppAPI.Repositories
+﻿using LogisticsWebAppAPI.Data;
+
+namespace LogisticsWebAppAPI.Repositories
 {
-    public class LukeShipmentTypeInterface
+    public interface LukeShipmentTypeInterface
     {
+        Task<IEnumerable<Shipment>> ShipmentType(int shipmentid);
     }
 }

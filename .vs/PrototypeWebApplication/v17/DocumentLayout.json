@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\repositories\\lukeshipmenttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\repositories\\lukeshipmenttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\controllers\\lukeshipmenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\controllers\\lukeshipmenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\repositories\\lukeshipmenttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\repositories\\lukeshipmenttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\repositories\\lukeshipmenttypeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\repositories\\lukeshipmenttypeinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\repositories\\ilcapisinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\repositories\\ilcapisinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\data\\lukedbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\data\\lukedbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\repositories\\lcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\repositories\\lcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\controllers\\lcapiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\controllers\\lcapiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\data\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\data\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|c:\\users\\mistuser\\source\\repos\\logisticswebapplication\\logisticswebappapi\\repositories\\lukeaddvehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A5A9504-7841-4A8E-9609-F316F35B03F1}|LogisticsWebAppAPI\\LogisticsWebAppAPI.csproj|solutionrelative:logisticswebappapi\\repositories\\lukeaddvehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,93 +42,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LCService.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LCService.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Repositories\\LCService.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LCService.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Repositories\\LCService.cs",
-              "ViewState": "AgIAACAAAACAm5mZmRkdwDEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:48:33.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LCapisController.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Controllers\\LCapisController.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Controllers\\LCapisController.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Controllers\\LCapisController.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Controllers\\LCapisController.cs",
-              "ViewState": "AgIAACgAAAAAMjMzM7MZwCsAAAAJAAAAAAAAAA==",
+              "Title": "ILCApisInterface.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\ILCApisInterface.cs",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Repositories\\ILCApisInterface.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\ILCApisInterface.cs",
+              "RelativeToolTip": "LogisticsWebAppAPI\\Repositories\\ILCApisInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:13:29.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LukeDbContextClass.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
-              "ViewState": "AgIAAAkAAADgZ2ZmZqYswBcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:04:25.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LukeShipmentTypeService.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
-              "ViewState": "AgIAAAMAAACYmZmZmRkmwBsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:20:56.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Program.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Program.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Program.cs",
-              "ViewState": "AgIAAAgAAABAmpmZmZkewBcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:20:27.298Z",
+              "WhenOpened": "2024-10-31T23:35:43.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Data\\Vehicle.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Data\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Data\\Vehicle.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Data\\Vehicle.cs",
-              "ViewState": "AgIAAAcAAABwZmZmZgYwwAAAAAAAAAAAAAAAAA==",
+              "Title": "LukeDbContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
+              "RelativeToolTip": "LogisticsWebAppAPI\\Data\\LukeDbContextClass.cs",
+              "ViewState": "AgIAAAwAAADgzMzMzAwjwBcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T19:30:38.463Z",
+              "WhenOpened": "2024-10-31T23:31:36.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LukeAddVehicleService.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeAddVehicleService.cs",
-              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Repositories\\LukeAddVehicleService.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeAddVehicleService.cs",
-              "RelativeToolTip": "LogisticsWebAppAPI\\Repositories\\LukeAddVehicleService.cs",
-              "ViewState": "AgIAABAAAACAyszMzMwWwCQAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Program.cs",
+              "RelativeToolTip": "LogisticsWebAppAPI\\Program.cs",
+              "ViewState": "AgIAABwAAACAzczMzMwHwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T18:58:38.202Z",
+              "WhenOpened": "2024-10-31T23:30:37.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LukeShipmentTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
+              "RelativeToolTip": "LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeService.cs",
+              "ViewState": "AgIAAA0AAADAMzMzMzMSwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:21:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LukeShipmentTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Controllers\\LukeShipmentTypeController.cs",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Controllers\\LukeShipmentTypeController.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Controllers\\LukeShipmentTypeController.cs",
+              "RelativeToolTip": "LogisticsWebAppAPI\\Controllers\\LukeShipmentTypeController.cs",
+              "ViewState": "AgIAAAcAAADAmZmZmZkuwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:17:19.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LukeShipmentTypeInterface.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeInterface.cs",
+              "RelativeDocumentMoniker": "LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeInterface.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\LogisticsWebApplication\\LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeInterface.cs",
+              "RelativeToolTip": "LogisticsWebAppAPI\\Repositories\\LukeShipmentTypeInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:17:13.051Z",
               "EditorCaption": ""
             }
           ]

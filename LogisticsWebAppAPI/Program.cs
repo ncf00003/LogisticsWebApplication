@@ -19,7 +19,7 @@ builder.Services.AddScoped<ILCApisInterface, LCService>();
 builder.Services.AddDbContext<LCDbContextClass>();
 
 // Luke servics
-//builder.Services.AddScoped<LukeShipmentTypeInterface, LukeShipmentTypeService();
+builder.Services.AddScoped<LukeShipmentTypeInterface, LukeShipmentTypeService>();
 builder.Services.AddScoped<LukeAddVehicleInterface, LukeAddVehicleService>();
 builder.Services.AddDbContext<LukeDbContextClass>();
 
