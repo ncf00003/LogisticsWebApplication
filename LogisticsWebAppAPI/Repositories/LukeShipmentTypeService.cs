@@ -17,8 +17,12 @@ namespace LogisticsWebAppAPI.Repositories
         {
             _dbContext = dbContext;
         }
+        public async Task<IEnumerable<Shipment>> ShipmentType(int shipmentid)
+        {
+            var param = new SqlParameter("@shipmentid", shipmentid);
+            var ShipmentType = await Task.Run(() => _dbContext.shipment
+                .FromSqlRaw(@"exec ShipmentType @shipmentid", param).ToListAsync());
+            return ShipmentType;
+        }
     }
 }
-        // Define Methods based on stored procudures -- parameters must be in specific table
-
-        
