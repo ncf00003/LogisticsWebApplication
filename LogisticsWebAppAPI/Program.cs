@@ -20,8 +20,8 @@ builder.Services.AddDbContext<LCDbContextClass>();
 
 // Luke servics
 //builder.Services.AddScoped<LukeShipmentTypeInterface, LukeShipmentTypeService();
-//builder.Services.AddScoped<LukeAddVehicleInterface, LukeAddVehicleService>();
-//builder.Services.AddDbContext<LukeDbContextClass>();
+builder.Services.AddScoped<LukeAddVehicleInterface, LukeAddVehicleService>();
+builder.Services.AddDbContext<LukeDbContextClass>();
 
 
 // Add services to the container.

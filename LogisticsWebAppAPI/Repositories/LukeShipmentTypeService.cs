@@ -17,6 +17,8 @@ namespace LogisticsWebAppAPI.Repositories
         {
             _dbContext = dbContext;
         }
+    }
+}
         // Define Methods based on stored procudures -- parameters must be in specific table
 
         
