@@ -192,35 +192,35 @@ I added a class for each service, interface, and controller for each seperate AP
 
 **2.  ShipmentType API**
 
-**Purpose:** Get HTTP API to find all shipments based on shipment type. 
+<br>**Purpose:** Get HTTP API to find all shipments based on shipment type. 
 
-**Inputs:**
+<br>**Inputs:**
 
-<br>@ShipmentType (string): The type of the shipment, with a maximum length of 255 characters
+@ShipmentType (string): The type of the shipment, with a maximum length of 255 characters
 
 
-**Outputs:** 
+<br>**Outputs:** 
 
 ___
 
 **3.  AddVehicle API**
 
-**Purpose:** Post HTTP API to add a vehicle to the database. 
+<br>**Purpose:** Post HTTP API to add a vehicle to the database. 
 
-**Inputs:**
+<br>**Inputs:**
 
-<br>@Model (string): The model of the vehicle, up to 255 characters.
-<br>@VIN (string): The vehicle ID number, a 17-character identifier for the vehicle.
-<br>@Plate (string): The license plate number, up to 8 characters.
-<br>@Capacity (int): The maximum capacity of the vehicle.
-<br>@DriverID (int): The ID of the driver assigned to the vehicle.
+@Model (string): The model of the vehicle, up to 255 characters.
+@VIN (string): The vehicle ID number, a 17-character identifier for the vehicle.
+@Plate (string): The license plate number, up to 8 characters.
+@Capacity (int): The maximum capacity of the vehicle.
+@DriverID (int): The ID of the driver assigned to the vehicle.
 
 
-**Outputs:** 
+<br>**Outputs:** 
 
 ___
 
-**Resources:**
+<br>**Resources:**
 Used ChatGPT to convert SQL to C# parameters:
 Prompt:
 
