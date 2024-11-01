@@ -194,12 +194,12 @@ I added a class for each service, interface, and controller for each seperate AP
 
 **Purpose:** Get HTTP API to find all shipments based on shipment type. 
 
-<br>**Inputs:**
+**Inputs:**
 
 <br>@ShipmentType (string): The type of the shipment, with a maximum length of 255 characters
 
 
-<br>**Outputs:** 
+**Outputs:** 
 
 ___
 
@@ -207,7 +207,7 @@ ___
 
 **Purpose:** Post HTTP API to add a vehicle to the database. 
 
-<br>**Inputs:**
+**Inputs:**
 
 <br>@Model (string): The model of the vehicle, up to 255 characters.
 <br>@VIN (string): The vehicle ID number, a 17-character identifier for the vehicle.
@@ -216,7 +216,7 @@ ___
 <br>@DriverID (int): The ID of the driver assigned to the vehicle.
 
 
-<br>**Outputs:** 
+**Outputs:** 
 
 ___
 
