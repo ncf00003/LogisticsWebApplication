@@ -193,11 +193,19 @@ I added a class for each service, interface, and controller for each seperate AP
 **2.  ShipmentType API**
 
 **Purpose:** Get HTTP API to find all shipments based on shipment type. 
-<br>**Inputs:** 
+
+<br>**Inputs:**
+
+<br>@ShipmentType (string): The type of the shipment, with a maximum length of 255 characters
+
+**Outputs:** 
+
+%%%
 
 **3.  AddVehicle API**
 
 **Purpose:** Post HTTP API to add a vehicle to the database. 
+
 <br>**Inputs:**
 
 <br>@Model (string): The model of the vehicle, up to 255 characters.
@@ -208,7 +216,7 @@ I added a class for each service, interface, and controller for each seperate AP
 
 **Outputs:** 
 
-
+%%%
 
 **Resources:**
 Used ChatGPT to convert SQL to C# parameters:
@@ -219,6 +227,9 @@ Prompt:
 Give me a JSON with sample data to test my API in this format:
 
 [Example of correct formatting for conversion]
+
+[Medium CRUD Operations Article](https://medium.com/@jaydeepvpatil225/crud-operation-using-entity-framework-core-and-stored-procedure-in-net-core-6-web-api-65faf6f019f0)
+I also used my teammates material as a reference to support my work.
 
 ## Landen Riggleman
 <strong> 1. Project Work</strong>
