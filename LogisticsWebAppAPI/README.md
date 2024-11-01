@@ -199,7 +199,7 @@ I added a class for each service, interface, and controller for each seperate AP
 <br>@ShipmentType (string): The type of the shipment, with a maximum length of 255 characters
 
 
-**Outputs:** 
+<br>**Outputs:** 
 
 ___
 
@@ -216,7 +216,7 @@ ___
 <br>@DriverID (int): The ID of the driver assigned to the vehicle.
 
 
-**Outputs:** 
+<br>**Outputs:** 
 
 ___
 
