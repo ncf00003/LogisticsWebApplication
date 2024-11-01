@@ -185,11 +185,40 @@ These are the parameters:
 Used NotionAI improve writing feature to proofread readme.
 
 ## Luke Chittenden
-<strong> 1. Project Work</strong>
 
-<strong> 2.  API</strong>
+**1. Project Work**
 
-<strong> 3.  API</strong>
+I added a class for each service, interface, and controller for each seperate API. For example, I had classes named for each component like LukeAddVehicleController, LukeShipmentTypeController, LukeAddVehicleService, LukeShipmentTypeService, etc. I also added mock data to the database in order for my AddVehicle API to function correctly.
+
+**2.  ShipmentType API**
+
+**Purpose:** Get HTTP API to find all shipments based on shipment type. 
+<br>**Inputs:** 
+
+**3.  AddVehicle API**
+
+**Purpose:** Post HTTP API to add a vehicle to the database. 
+<br>**Inputs:**
+
+<br>@Model (string): The model of the vehicle, up to 255 characters.
+<br>@VIN (string): The vehicle ID number, a 17-character identifier for the vehicle.
+<br>@Plate (string): The license plate number, up to 8 characters.
+<br>@Capacity (int): The maximum capacity of the vehicle.
+<br>@DriverID (int): The ID of the driver assigned to the vehicle.
+
+**Outputs:** 
+
+
+
+**Resources:**
+Used ChatGPT to convert SQL to C# parameters:
+Prompt:
+
+[SQL Parameters}
+
+Give me a JSON with sample data to test my API in this format:
+
+[Example of correct formatting for conversion]
 
 ## Landen Riggleman
 <strong> 1. Project Work</strong>
