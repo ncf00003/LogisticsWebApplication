@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PrototypeWebApplication.Data;
 
@@ -13,5 +14,7 @@ public partial class Route
 
     public decimal Distance { get; set; }
 
+    // add above every ICollection
+    [NotMapped]
     public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
 }

@@ -1,0 +1,90 @@
+﻿@page
+@model PrototypeWebApplication.Pages.NFShipment.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].DeliveryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].ShipmentType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].Weight)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].VehicleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].RouteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].WarehouseId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].OriginLocationId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Shipment[0].DestinationLocationId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Shipment) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShipmentType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Weight)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cost)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VehicleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RouteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WarehouseId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OriginLocationId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DestinationLocationId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Shipmentid">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Shipmentid">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Shipmentid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

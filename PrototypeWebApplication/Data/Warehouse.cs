@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PrototypeWebApplication.Data;
 
@@ -14,6 +15,6 @@ public partial class Warehouse
     public int LocationId { get; set; }
 
     public virtual Location Location { get; set; } = null!;
-
+    [NotMapped]
     public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
 }

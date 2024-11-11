@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PrototypeWebApplication.Data;
 
@@ -18,6 +19,6 @@ public partial class Vehicle
     public int DriverId { get; set; }
 
     public virtual User Driver { get; set; } = null!;
-
+    [NotMapped]
     public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
 }

@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using PrototypeWebApplication.Data;
 
 namespace PrototypeWebApplication.Data
 {
@@ -9,5 +10,7 @@ namespace PrototypeWebApplication.Data
             : base(options)
         {
         }
+        public DbSet<PrototypeWebApplication.Data.Tracking> Tracking { get; set; } = default!;
+        public DbSet<PrototypeWebApplication.Data.Shipment> Shipment { get; set; } = default!;
     }
 }

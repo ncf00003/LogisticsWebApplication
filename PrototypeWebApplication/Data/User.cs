@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace PrototypeWebApplication.Data;
 
@@ -18,8 +19,9 @@ public partial class User
     public string ContactNumber { get; set; } = null!;
 
     public string Address { get; set; } = null!;
-
+    
+    [NotMapped]
     public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
-
+    [NotMapped]
     public virtual ICollection<Vehicle> Vehicles { get; set; } = new List<Vehicle>();
 }
