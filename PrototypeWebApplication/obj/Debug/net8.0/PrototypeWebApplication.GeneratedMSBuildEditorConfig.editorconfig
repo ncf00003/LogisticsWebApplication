@@ -42,26 +42,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGVhcm4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/NFShipment/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZTaGlwbWVudFxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/NFShipment/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZTaGlwbWVudFxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/NFShipment/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZTaGlwbWVudFxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/NFShipment/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZTaGlwbWVudFxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/NFShipment/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTkZTaGlwbWVudFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -72,6 +52,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Shipment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hpcG1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Shipment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hpcG1lbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Shipment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hpcG1lbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Shipment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hpcG1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Shipment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hpcG1lbnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/Welcome.cshtml]
