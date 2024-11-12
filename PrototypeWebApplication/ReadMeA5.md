@@ -5,7 +5,7 @@
 # Individual Work
 ## Natalia Furmanek 
 <strong> Razor Pages: </strong>
-<b> ShipmentCrud </p>
+<br> ShipmentCrud </p>
 <p> TrackingCrud </p>
 
 <strong> APIs Used: </strong>
