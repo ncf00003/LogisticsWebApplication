@@ -11,9 +11,9 @@ namespace PrototypeWebApplication.Pages.NFShipment
 {
     public class DetailsModel : PageModel
     {
-        private readonly PrototypeWebApplication.Data.ApplicationDbContext _context;
+        private readonly PrototypeWebApplication.Data.LogisticsWebDataContext _context;
 
-        public DetailsModel(PrototypeWebApplication.Data.ApplicationDbContext context)
+        public DetailsModel(PrototypeWebApplication.Data.LogisticsWebDataContext context)
         {
             _context = context;
         }
@@ -27,7 +27,7 @@ namespace PrototypeWebApplication.Pages.NFShipment
                 return NotFound();
             }
 
-            var shipment = await _context.Shipment.FirstOrDefaultAsync(m => m.Shipmentid == id);
+            var shipment = await _context.Shipments.FirstOrDefaultAsync(m => m.Shipmentid == id);
             if (shipment == null)
             {
                 return NotFound();

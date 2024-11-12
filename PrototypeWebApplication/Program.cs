@@ -4,6 +4,11 @@ using PrototypeWebApplication.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
+
+// Register HttpClient for dependency injection
+builder.Services.AddHttpClient();
+// To Make assignment 5 work???
+
 // Add services to the container.
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
 builder.Services.AddDbContext<ApplicationDbContext>(options =>

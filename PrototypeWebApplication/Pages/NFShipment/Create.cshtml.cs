@@ -11,9 +11,9 @@ namespace PrototypeWebApplication.Pages.NFShipment
 {
     public class CreateModel : PageModel
     {
-        private readonly PrototypeWebApplication.Data.ApplicationDbContext _context;
+        private readonly PrototypeWebApplication.Data.LogisticsWebDataContext _context;
 
-        public CreateModel(PrototypeWebApplication.Data.ApplicationDbContext context)
+        public CreateModel(PrototypeWebApplication.Data.LogisticsWebDataContext context)
         {
             _context = context;
         }
@@ -34,7 +34,7 @@ namespace PrototypeWebApplication.Pages.NFShipment
                 return Page();
             }
 
-            _context.Shipment.Add(Shipment);
+            _context.Shipments.Add(Shipment);
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");

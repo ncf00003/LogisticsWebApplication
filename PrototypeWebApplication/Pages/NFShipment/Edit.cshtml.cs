@@ -12,9 +12,9 @@ namespace PrototypeWebApplication.Pages.NFShipment
 {
     public class EditModel : PageModel
     {
-        private readonly PrototypeWebApplication.Data.ApplicationDbContext _context;
+        private readonly PrototypeWebApplication.Data.LogisticsWebDataContext _context;
 
-        public EditModel(PrototypeWebApplication.Data.ApplicationDbContext context)
+        public EditModel(PrototypeWebApplication.Data.LogisticsWebDataContext context)
         {
             _context = context;
         }
@@ -29,7 +29,7 @@ namespace PrototypeWebApplication.Pages.NFShipment
                 return NotFound();
             }
 
-            var shipment =  await _context.Shipment.FirstOrDefaultAsync(m => m.Shipmentid == id);
+            var shipment =  await _context.Shipments.FirstOrDefaultAsync(m => m.Shipmentid == id);
             if (shipment == null)
             {
                 return NotFound();
@@ -70,7 +70,7 @@ namespace PrototypeWebApplication.Pages.NFShipment
 
         private bool ShipmentExists(int id)
         {
-            return _context.Shipment.Any(e => e.Shipmentid == id);
+            return _context.Shipments.Any(e => e.Shipmentid == id);
         }
     }
 }
