@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\nfshipment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\nfshipment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\data\\logisticswebdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\data\\logisticswebdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\nfshipment\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\nfshipment\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\data\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +31,20 @@
       "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\nfshipment\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\nfshipment\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\nfshipment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\nfshipment\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\nfshipment\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\nfshipment\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\nfshipment\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\nfshipment\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\pages\\shipmentcrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|solutionrelative:prototypewebapplication\\pages\\shipmentcrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35A0C97B-D4A0-4641-B84D-E0F969180CFF}|PrototypeWebApplication\\PrototypeWebApplication.csproj|c:\\users\\mistuser\\documents\\github\\logisticswebapplication\\prototypewebapplication\\data\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,84 +83,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T20:39:55.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-12T19:58:08.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml.cs",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\NFShipment\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml.cs",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Index.cshtml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAACQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:42:33.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:42:33.709Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\NFShipment\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Delete.cshtml.cs",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\NFShipment\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Delete.cshtml.cs",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Delete.cshtml.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAAADYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:41:25.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:41:25.348Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\NFShipment\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Details.cshtml.cs",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\NFShipment\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Details.cshtml.cs",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Details.cshtml.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:41:25.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:41:25.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\NFShipment\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Edit.cshtml.cs",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\NFShipment\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Edit.cshtml.cs",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Edit.cshtml.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:41:24.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:41:24.785Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\NFShipment\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\NFShipment\\Create.cshtml.cs",
-              "RelativeToolTip": "PrototypeWebApplication\\Pages\\NFShipment\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml.cs",
+              "RelativeToolTip": "PrototypeWebApplication\\Pages\\ShipmentCrud\\Create.cshtml.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:41:24.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:41:24.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LogisticsWebDataContext.cs",
               "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Data\\LogisticsWebDataContext.cs",
               "RelativeDocumentMoniker": "PrototypeWebApplication\\Data\\LogisticsWebDataContext.cs",
@@ -168,8 +176,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\Data\\LogisticsWebDataContext.cs",
               "ViewState": "AgIAALgAAAAAAAAAAAAAAM0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:40:09.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:40:09.176Z"
             },
             {
               "$type": "Document",
@@ -181,21 +188,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\Data\\Vehicle.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwBUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T19:59:27.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Data\\User.cs",
-              "RelativeDocumentMoniker": "PrototypeWebApplication\\Data\\User.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\Data\\User.cs",
-              "RelativeToolTip": "PrototypeWebApplication\\Data\\User.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T19:59:18.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T19:59:27.311Z"
             },
             {
               "$type": "Document",
@@ -207,8 +200,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-12T19:57:08.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T19:57:08.56Z"
             },
             {
               "$type": "Document",
@@ -220,8 +212,7 @@
               "RelativeToolTip": "PrototypeWebApplication\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-11T20:04:49.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T20:04:49.144Z"
             },
             {
               "$type": "Document",

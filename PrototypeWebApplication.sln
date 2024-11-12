@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypeWebApplication", "PrototypeWebApplication\PrototypeWebApplication.csproj", "{35A0C97B-D4A0-4641-B84D-E0F969180CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsWebAppAPI", "LogisticsWebAppAPI\LogisticsWebAppAPI.csproj", "{8A5A9504-7841-4A8E-9609-F316F35B03F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticsWebAppAPI", "LogisticsWebAppAPI\LogisticsWebAppAPI.csproj", "{8A5A9504-7841-4A8E-9609-F316F35B03F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
