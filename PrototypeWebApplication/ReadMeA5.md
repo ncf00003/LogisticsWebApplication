@@ -3,19 +3,19 @@
 <p> Make sure website is uniformly structured and uses all applicable APIs from Assignment 4</p>
 
 # Individual Work
-### Natalia Furmanek 
+## Natalia Furmanek 
 <strong> Razor Pages: </strong>
 <br> ShipmentCrud
 <p> TrackingCrud </p>
 
 <strong> APIs Used: </strong>
 
-### Leonardo Cuellar
+## Leonardo Cuellar
 <strong> Razor Pages: </strong>
 
 <strong> APIs Used: </strong>
 
-### Luke Chittenden
+## Luke Chittenden
 <strong> Razor Pages: </strong>
 
 <strong> APIs Used: </strong>
