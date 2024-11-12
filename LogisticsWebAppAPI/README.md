@@ -20,7 +20,13 @@ Continuing with our Prototype Logistics Web app, we will be introducing more fun
 <br> Users can select a warehouse from a dropdown and it will give a summary of information related to the warehouse, such as number of shipments, address, city and state.  <p>
 
 <strong> 4. Shipment Dashboard </strong>
-<br> Users can add a shipment to their application, and get a summary of the current shipments. </br>
+<br> Users can add a shipment to their application, and get a summary of their current shipments. </br>
+
+<strong> 5. Find Shipment </strong>
+<br> Users can select a shipment based on its shipment type and it will give all information related to the shipment. <p>
+
+<strong> 6. Add Vehicle </strong>
+<br> Users can add a vehicle to their database and it will show all vehicles. </br>
 
 # Collaborative Work
 ## Natalia Furmanek 
