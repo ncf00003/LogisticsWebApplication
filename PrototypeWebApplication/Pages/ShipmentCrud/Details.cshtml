@@ -1,5 +1,5 @@
 ﻿@page
-@model PrototypeWebApplication.Pages.NFShipment.DetailsModel
+@model PrototypeWebApplication.Pages.ShipmentCrud.DetailsModel
 
 @{
     ViewData["Title"] = "Details";
@@ -36,40 +36,40 @@
             @Html.DisplayFor(model => model.Shipment.Cost)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Shipment.UserId)
+            @Html.DisplayNameFor(model => model.Shipment.DestinationLocation)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Shipment.UserId)
+            @Html.DisplayFor(model => model.Shipment.DestinationLocation.Locationid)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Shipment.VehicleId)
+            @Html.DisplayNameFor(model => model.Shipment.OriginLocation)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Shipment.VehicleId)
+            @Html.DisplayFor(model => model.Shipment.OriginLocation.Locationid)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Shipment.RouteId)
+            @Html.DisplayNameFor(model => model.Shipment.Route)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Shipment.RouteId)
+            @Html.DisplayFor(model => model.Shipment.Route.Routeid)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Shipment.WarehouseId)
+            @Html.DisplayNameFor(model => model.Shipment.User)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Shipment.WarehouseId)
+            @Html.DisplayFor(model => model.Shipment.User.Userid)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Shipment.OriginLocationId)
+            @Html.DisplayNameFor(model => model.Shipment.Vehicle)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Shipment.OriginLocationId)
+            @Html.DisplayFor(model => model.Shipment.Vehicle.Vehicleid)
         </dd>
         <dt class="col-sm-2">
-            @Html.DisplayNameFor(model => model.Shipment.DestinationLocationId)
+            @Html.DisplayNameFor(model => model.Shipment.Warehouse)
         </dt>
         <dd class="col-sm-10">
-            @Html.DisplayFor(model => model.Shipment.DestinationLocationId)
+            @Html.DisplayFor(model => model.Shipment.Warehouse.Warehouseid)
         </dd>
     </dl>
 </div>

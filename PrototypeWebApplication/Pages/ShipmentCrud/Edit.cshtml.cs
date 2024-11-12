@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using PrototypeWebApplication.Data;
 
-namespace PrototypeWebApplication.Pages.NFShipment
+namespace PrototypeWebApplication.Pages.ShipmentCrud
 {
     public class EditModel : PageModel
     {
@@ -35,6 +35,12 @@ namespace PrototypeWebApplication.Pages.NFShipment
                 return NotFound();
             }
             Shipment = shipment;
+           ViewData["DestinationLocationId"] = new SelectList(_context.Locations, "Locationid", "Locationid");
+           ViewData["OriginLocationId"] = new SelectList(_context.Locations, "Locationid", "Locationid");
+           ViewData["RouteId"] = new SelectList(_context.Routes, "Routeid", "Routeid");
+           ViewData["UserId"] = new SelectList(_context.Users, "Userid", "Userid");
+           ViewData["VehicleId"] = new SelectList(_context.Vehicles, "Vehicleid", "Vehicleid");
+           ViewData["WarehouseId"] = new SelectList(_context.Warehouses, "Warehouseid", "Warehouseid");
             return Page();
         }
 

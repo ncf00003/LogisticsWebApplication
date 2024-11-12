@@ -1,5 +1,5 @@
 ﻿@page
-@model PrototypeWebApplication.Pages.NFShipment.CreateModel
+@model PrototypeWebApplication.Pages.ShipmentCrud.CreateModel
 
 @{
     ViewData["Title"] = "Create";
@@ -35,33 +35,27 @@
             </div>
             <div class="form-group">
                 <label asp-for="Shipment.UserId" class="control-label"></label>
-                <input asp-for="Shipment.UserId" class="form-control" />
-                <span asp-validation-for="Shipment.UserId" class="text-danger"></span>
+                <select asp-for="Shipment.UserId" class ="form-control" asp-items="ViewBag.UserId"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Shipment.VehicleId" class="control-label"></label>
-                <input asp-for="Shipment.VehicleId" class="form-control" />
-                <span asp-validation-for="Shipment.VehicleId" class="text-danger"></span>
+                <select asp-for="Shipment.VehicleId" class ="form-control" asp-items="ViewBag.VehicleId"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Shipment.RouteId" class="control-label"></label>
-                <input asp-for="Shipment.RouteId" class="form-control" />
-                <span asp-validation-for="Shipment.RouteId" class="text-danger"></span>
+                <select asp-for="Shipment.RouteId" class ="form-control" asp-items="ViewBag.RouteId"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Shipment.WarehouseId" class="control-label"></label>
-                <input asp-for="Shipment.WarehouseId" class="form-control" />
-                <span asp-validation-for="Shipment.WarehouseId" class="text-danger"></span>
+                <select asp-for="Shipment.WarehouseId" class ="form-control" asp-items="ViewBag.WarehouseId"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Shipment.OriginLocationId" class="control-label"></label>
-                <input asp-for="Shipment.OriginLocationId" class="form-control" />
-                <span asp-validation-for="Shipment.OriginLocationId" class="text-danger"></span>
+                <select asp-for="Shipment.OriginLocationId" class ="form-control" asp-items="ViewBag.OriginLocationId"></select>
             </div>
             <div class="form-group">
                 <label asp-for="Shipment.DestinationLocationId" class="control-label"></label>
-                <input asp-for="Shipment.DestinationLocationId" class="form-control" />
-                <span asp-validation-for="Shipment.DestinationLocationId" class="text-danger"></span>
+                <select asp-for="Shipment.DestinationLocationId" class ="form-control" asp-items="ViewBag.DestinationLocationId"></select>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />

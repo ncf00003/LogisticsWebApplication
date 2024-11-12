@@ -11,6 +11,6 @@ namespace PrototypeWebApplication.Data
         {
         }
         public DbSet<PrototypeWebApplication.Data.Tracking> Tracking { get; set; } = default!;
-        public DbSet<PrototypeWebApplication.Data.Shipment> Shipment { get; set; } = default!;
+        //public DbSet<PrototypeWebApplication.Data.Shipment> Shipment { get; set; } = default!;
     }
 }

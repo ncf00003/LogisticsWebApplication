@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using PrototypeWebApplication.Data;
 
-namespace PrototypeWebApplication.Pages.NFShipment
+namespace PrototypeWebApplication.Pages.ShipmentCrud
 {
     public class DetailsModel : PageModel
     {

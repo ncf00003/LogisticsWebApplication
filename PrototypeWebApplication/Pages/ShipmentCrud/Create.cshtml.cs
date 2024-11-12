@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using PrototypeWebApplication.Data;
 
-namespace PrototypeWebApplication.Pages.NFShipment
+namespace PrototypeWebApplication.Pages.ShipmentCrud
 {
     public class CreateModel : PageModel
     {
@@ -20,6 +20,12 @@ namespace PrototypeWebApplication.Pages.NFShipment
 
         public IActionResult OnGet()
         {
+        ViewData["DestinationLocationId"] = new SelectList(_context.Locations, "Locationid", "Locationid");
+        ViewData["OriginLocationId"] = new SelectList(_context.Locations, "Locationid", "Locationid");
+        ViewData["RouteId"] = new SelectList(_context.Routes, "Routeid", "Routeid");
+        ViewData["UserId"] = new SelectList(_context.Users, "Userid", "Userid");
+        ViewData["VehicleId"] = new SelectList(_context.Vehicles, "Vehicleid", "Vehicleid");
+        ViewData["WarehouseId"] = new SelectList(_context.Warehouses, "Warehouseid", "Warehouseid");
             return Page();
         }
 
