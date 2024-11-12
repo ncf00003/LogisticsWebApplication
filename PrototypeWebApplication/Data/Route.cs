@@ -15,6 +15,6 @@ public partial class Route
     public decimal Distance { get; set; }
 
     // add above every ICollection
-    [NotMapped]
+    //[NotMapped]
     public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
 }

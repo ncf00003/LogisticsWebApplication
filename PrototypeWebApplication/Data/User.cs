@@ -20,8 +20,8 @@ public partial class User
 
     public string Address { get; set; } = null!;
     
-    [NotMapped]
+    
     public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
-    [NotMapped]
+    
     public virtual ICollection<Vehicle> Vehicles { get; set; } = new List<Vehicle>();
 }

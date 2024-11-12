@@ -15,5 +15,7 @@ public partial class Tracking
 
     public DateTime LastUpdated { get; set; }
 
-    public virtual Shipment Shipment { get; set; } = null!;
+    public virtual  Shipment Shipment { get; set; }  = null!;
+
+
 }
