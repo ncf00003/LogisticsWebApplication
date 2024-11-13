@@ -63,6 +63,20 @@ box {
     align-items: center;
 }
 
+.newtable {
+    max-width: 300px;
+    font-size: 1.0em;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin: 0 auto; /* Centers the table horizontally */
+    width: 80%;
+}
+
     .toc h2 {
         font-size: 1.2em;
         margin-bottom: 10px;
