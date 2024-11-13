@@ -14,7 +14,10 @@ public partial class User
 
     public string Email { get; set; } = null!;
 
-    public string Password { get; set; } = null!;
+    //public string Password { get; set; } = null!;
+
+    //where we were running into issues as this is a Collate
+    public byte[] Password { get; set; } = null!;
 
     public string ContactNumber { get; set; } = null!;
 
