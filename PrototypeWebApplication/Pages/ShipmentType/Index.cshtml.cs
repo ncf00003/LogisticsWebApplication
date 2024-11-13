@@ -21,10 +21,10 @@ namespace PrototypeWebApplication.Pages.ShipmentType
 
         public IList<Shipment> Shipment { get; set; } = new List<Shipment>();
 
-        public async Task<IActionResult> OnGetAsync(string id)
+        public async Task<IActionResult> OnGetAsync(string ShipmentType)
         {
             
-            if (string.IsNullOrEmpty(id))
+            if (string.IsNullOrEmpty(ShipmentType))
             {
                 return Page();
             }
@@ -32,7 +32,7 @@ namespace PrototypeWebApplication.Pages.ShipmentType
             try
             {
                 // make the endpoint string we want to hit
-                string requestUrl = $"http://localhost:5272/api/LukeShipmentType/ShipmentType?shipmentid={Uri.EscapeDataString(id)}";
+                string requestUrl = $"http://localhost:5272/api/LukeShipmentType/ShipmentType?shipmentid={Uri.EscapeDataString(ShipmentType)}";
 
                 // Send the GET request to the API
                 Shipment = await _httpClient.GetFromJsonAsync<IList<Shipment>>(requestUrl) ?? new List<Shipment>();
