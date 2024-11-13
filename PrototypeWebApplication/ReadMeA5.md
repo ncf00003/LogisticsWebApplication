@@ -7,20 +7,20 @@
 # Individual Work
 ## Natalia Furmanek 
 ### Razor Pages: 
-<strong> ShipmentCrud </strong> </br>
-Shows All Shipment information and includes navigation from Home/Index Page
+><strong> ShipmentCrud </strong> </br>
+>Shows All Shipment information and includes navigation from Home/Index Page
 
-<p> <strong> TrackingCrud </strong> <br>
-Page where users can view tracking information about all shipments. </p> 
+><p> <strong> TrackingCrud </strong> <br>
+>Page where users can view tracking information about all shipments. </p> 
 
-<p> <strong> Home Page </strong> <br>
-Reformatted Home Page to create visual interest and include navigation.
-Code from Bootswatch is used as a placeholder for additional dropdown and information we would want to add or generate for the final project.
-<br> <em> These can include but are not limited to: </em> </br>
-  
- - Weather Information
- - User Tutorials
- - Mission Statement
+><p> <strong> Home Page </strong> <br>
+>Reformatted Home Page to create visual interest and include navigation.
+>Code from Bootswatch is used as a placeholder for additional dropdown and information we would want to add or generate for the final project.
+><br> <em> These can include but are not limited to: </em> </br>
+>  
+> - Weather Information
+> - User Tutorials
+> - Mission Statement
    
 </p>
 
