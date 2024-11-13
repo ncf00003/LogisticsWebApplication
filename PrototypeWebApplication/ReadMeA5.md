@@ -25,8 +25,8 @@
 </p>
 
 ### APIs Used:
-- View of Shipments by Ship Id / User Id from Assignment 4
-- Alternative of Viewing Tracking by User Id
+- View of Shipments by Ship Id from Assignment 4
+- Alternative of Viewing Shipments by User Id
 
 ## Leonardo Cuellar
 <strong> Razor Pages: </strong>
