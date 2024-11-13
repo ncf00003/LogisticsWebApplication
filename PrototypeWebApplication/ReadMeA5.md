@@ -25,8 +25,8 @@
 </p>
 
 ### APIs Used:
-- View of Shipments by Ship Id from Assignment 4
-- Alternative of Viewing Shipments by User Id
+- View of Shipments by Type from Assignment 4
+- Weather Information as a button underneath Tracking Crud Page?
 
 ## Leonardo Cuellar
 <strong> Razor Pages: </strong>
