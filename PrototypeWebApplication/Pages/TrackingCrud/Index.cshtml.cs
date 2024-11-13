@@ -22,7 +22,10 @@ namespace PrototypeWebApplication.Pages.TrackingCrud
 
         public async Task OnGetAsync()
         {
-            Tracking = await _context.Trackings.ToListAsync();
+            Tracking = await _context.Trackings
+                .Include(t => t.Shipment).ToListAsync();
+            // Figure out filtering Info After Referencing on home page
+
         }
     }
 }

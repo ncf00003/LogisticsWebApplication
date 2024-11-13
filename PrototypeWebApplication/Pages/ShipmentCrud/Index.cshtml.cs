@@ -27,7 +27,7 @@ namespace PrototypeWebApplication.Pages.ShipmentCrud
         {
             Shipment = await _context.Shipments.ToListAsync();
             // Manually load the related data (workaround for Include)
-            /*
+            
             foreach (var shipment in Shipment)
             {
                 shipment.DestinationLocation = await _context.Locations
@@ -47,7 +47,7 @@ namespace PrototypeWebApplication.Pages.ShipmentCrud
 
                 shipment.Route = await _context.Routes
                     .FirstOrDefaultAsync(r => r.Routeid == shipment.RouteId);
-            } */
+            } //*/
         
 
         }
