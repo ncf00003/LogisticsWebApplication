@@ -1,5 +1,5 @@
 ﻿@page
-@model PrototypeWebApplication.Pages.ShipmentCrud.IndexModel
+@model PrototypeWebApplication.Pages.ShipmentType.IndexModel
 
 @{
     ViewData["Title"] = "Index";
@@ -86,13 +86,9 @@
             </td>
         </tr>
 }
+        @if (!Model.Shipment.Any())
+        {
+            <p>No shipments found.</p>
+        }
     </tbody>
 </table>
-
-
-<div class="text-center">
-    <a href="/ShipmentType" class="btn btn-dark"> Search an Order </a>
-</div> 
-<!-- Using the button format to integrate API on separate folder 
-     Need to create new API For Historic Orders by User
--->
