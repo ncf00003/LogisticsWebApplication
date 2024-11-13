@@ -1,7 +1,8 @@
 # Assignment Group Assignment
 <strong> Application Integration:</strong>
-<p> Make sure website is uniformly structured and uses all applicable APIs from Assignment 4</p>
-Structure is re-used from Assignment 2 so all pages have the same format. There should eventually be integration buttons so the Home Page has navigation to all user actions, since there are 6 Razor Pages and multiple functions within many, it makes more sense to link these on the home page over the nav bar. 
+<br> Make sure website is uniformly structured and uses all applicable APIs from Assignment 4: 
+<p> Structure is re-used from Assignment 2 so all pages have the same format. There should eventually be integration buttons so the Home Page has navigation to all user actions, since there are 6 Razor Pages and multiple functions within many, it makes more sense to link these on the home page over the nav bar. </p>
+<p>Made sure all CRUD opperations work plus figured out binary[] exception issue.</p>
 
 # Individual Work
 ## Natalia Furmanek 
