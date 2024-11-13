@@ -11,6 +11,7 @@ namespace PrototypeWebApplication.Pages.ShipmentCrud
 {
     public class IndexModel : PageModel
     {
+        // Going to try to use both database and API
         private readonly PrototypeWebApplication.Data.LogisticsWebDataContext _context;
 
         public IndexModel(PrototypeWebApplication.Data.LogisticsWebDataContext context)
@@ -20,9 +21,6 @@ namespace PrototypeWebApplication.Pages.ShipmentCrud
 
         public IList<Shipment> Shipment { get;set; } = default!;
 
-
-
-        // Delete Include if listed under
         public async Task OnGetAsync()
         {
             Shipment = await _context.Shipments.ToListAsync();
@@ -47,7 +45,7 @@ namespace PrototypeWebApplication.Pages.ShipmentCrud
 
                 shipment.Route = await _context.Routes
                     .FirstOrDefaultAsync(r => r.Routeid == shipment.RouteId);
-            } //*/
+            } 
         
 
         }
