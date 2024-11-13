@@ -1,4 +1,5 @@
-# [Assignment 5 ReadMe](https://github.com/ncf00003/LogisticsWebApplication/edit/main/PrototypeWebApplication/ReadMeA5.md)
+# [Assignment 5 ReadMe](https://github.com/ncf00003/LogisticsWebApplication/blob/main/PrototypeWebApplication/ReadMeA5.md)
+
 
 # [APIs ReadMe](https://github.com/ncf00003/LogisticsWebApplication/tree/main/LogisticsWebAppAPI#readme)
 
