@@ -6,9 +6,10 @@ Structure is re-used from Assignment 2 so all pages have the same format. There 
 # Individual Work
 ## Natalia Furmanek 
 <strong> Razor Pages: </strong>
-<br> ShipmentCrud </br>
-<p> TrackingCrud </p>
-Page where users can view tracking information about all shipments. 
+<br> ShipmentCrud
+</br>
+<p> TrackingCrud <br>
+Page where users can view tracking information about all shipments. </p> 
 
 <strong> APIs Used: </strong>
 
