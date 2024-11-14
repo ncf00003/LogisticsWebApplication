@@ -17,7 +17,7 @@ namespace LogisticsWebAppAPI.Repositories
         {
             _dbContext = dbContext;
         }
-        public async Task<IEnumerable<Shipment>> ShipmentType(int shipmentid)
+        public async Task<IEnumerable<Shipment>> ShipmentType(string shipmentid)
         {
             var param = new SqlParameter("@shipmentid", shipmentid);
             var ShipmentType = await Task.Run(() => _dbContext.shipment

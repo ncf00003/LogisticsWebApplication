@@ -25,7 +25,7 @@ namespace LogisticsWebAppAPI.Controllers
          */
 
         [HttpGet("ShipmentType")]
-        public async Task<IEnumerable<Shipment>> ShipmentType(int shipmentid)
+        public async Task<IEnumerable<Shipment>> ShipmentType(string shipmentid)
         {
             try
             {
