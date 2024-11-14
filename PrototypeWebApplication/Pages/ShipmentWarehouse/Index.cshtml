@@ -19,9 +19,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Warehouse[0].CurrentStock)
             </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Warehouse[0].Location)
-            </th>
+         
             <th></th>
         </tr>
     </thead>
@@ -34,9 +32,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.CurrentStock)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Location.Locationid)
-            </td>
+            
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.Warehouseid">Edit</a> |
                 <a asp-page="./Details" asp-route-id="@item.Warehouseid">Details</a> |

@@ -14,7 +14,7 @@ public partial class Warehouse
 
     public int LocationId { get; set; }
 
-    public virtual Location Location { get; set; } = null!;
+    //public virtual Location Location { get; set; } = null!;
     
-    public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
+    //public virtual ICollection<Shipment> Shipments { get; set; } = new List<Shipment>();
 }

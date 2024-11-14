@@ -22,8 +22,7 @@ namespace PrototypeWebApplication.Pages.ShipmentsWarehouse
 
         public async Task OnGetAsync()
         {
-            Warehouse = await _context.Warehouses
-                .Include(w => w.Location).ToListAsync();
+            Warehouse = await _context.Warehouses.ToListAsync();
         }
     }
 }

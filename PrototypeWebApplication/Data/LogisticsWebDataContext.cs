@@ -108,10 +108,10 @@ public partial class LogisticsWebDataContext : DbContext
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK_Shipment_Vehicle");
 
-            entity.HasOne(d => d.Warehouse).WithMany(p => p.Shipments)
+           /* entity.HasOne(d => d.Warehouse).WithMany(p => p.Shipments)
                 .HasForeignKey(d => d.WarehouseId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Shipment_Warehouse");
+                .HasConstraintName("FK_Shipment_Warehouse"); */
         });
 
         modelBuilder.Entity<Tracking>(entity =>
@@ -193,10 +193,10 @@ public partial class LogisticsWebDataContext : DbContext
                 .HasColumnName("capacity");
             entity.Property(e => e.LocationId).HasColumnName("locationID");
 
-            entity.HasOne(d => d.Location).WithMany(p => p.Warehouses)
+            /*entity.HasOne(d => d.Location).WithMany(p => p.Warehouses)
                 .HasForeignKey(d => d.LocationId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_Warehouse_Location");
+                .HasConstraintName("FK_Warehouse_Location"); */
         });
 
         OnModelCreatingPartial(modelBuilder);
