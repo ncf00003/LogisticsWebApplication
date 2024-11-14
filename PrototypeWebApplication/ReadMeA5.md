@@ -9,10 +9,10 @@
 ## Natalia Furmanek 
 ### Razor Pages: 
 ><strong> ShipmentCrud </strong> </br>
->Shows All Shipment information and includes navigation from Home/Index Page. Users are able to perform and CRUD opperation and navigate to ShipmentType.
+>Shows All Shipment information and includes navigation from Home/Index Page. Users are able to perform all CRUD opperations and navigate back home easily.
 
 ><p> <strong> TrackingCrud </strong> <br>
->Page where users can view tracking information about all shipments. Users are able to perform and CRUD opperation. </p> 
+>Page where users can view tracking information about all shipments. Users are able to perform all CRUD opperations. </p> 
 
 ><p> <strong> Home Page </strong> <br>
 >Reformatted Home Page to create visual interest and include navigation.
