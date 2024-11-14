@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d9azECqKxWs=",
+  "dgSpecHash": "NGJWI0aq8UE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISTUser\\Documents\\GitHub\\LogisticsWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\MISTUser\\Documents\\GitHub\\PrototypeWebApplication\\PrototypeWebApplication\\PrototypeWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISTUser\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MISTUser\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
