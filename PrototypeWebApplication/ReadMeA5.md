@@ -9,10 +9,10 @@
 ## Natalia Furmanek 
 ### Razor Pages: 
 ><strong> ShipmentCrud </strong> </br>
->Shows All Shipment information and includes navigation from Home/Index Page
+>Shows All Shipment information and includes navigation from Home/Index Page. Users are able to perform and CRUD opperation and navigate to ShipmentType.
 
 ><p> <strong> TrackingCrud </strong> <br>
->Page where users can view tracking information about all shipments. </p> 
+>Page where users can view tracking information about all shipments. Users are able to perform and CRUD opperation. </p> 
 
 ><p> <strong> Home Page </strong> <br>
 >Reformatted Home Page to create visual interest and include navigation.
@@ -27,7 +27,7 @@
 
 ### APIs Used:
 - View of Shipments by Type from Assignment 4
-- Weather Information as a button underneath Tracking Crud Page?
+- 
 
 ## Leonardo Cuellar
 ### Razor Pages:
