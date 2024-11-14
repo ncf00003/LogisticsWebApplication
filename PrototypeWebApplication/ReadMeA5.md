@@ -30,11 +30,11 @@
 - Weather Information as a button underneath Tracking Crud Page?
 
 ## Leonardo Cuellar
-<strong> Razor Pages: </strong>
+### Razor Pages:
 
-<strong> APIs Used: </strong>
+### APIs Used:
 
 ## Luke Chittenden
-<strong> Razor Pages: </strong>
+### Razor Pages:
 
-<strong> APIs Used: </strong>
+### APIs Used:
