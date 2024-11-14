@@ -25,16 +25,10 @@
    
 </p>
 
-### APIs Used:
-- View of Shipments by Type from Assignment 4
-- 
-
 ## Leonardo Cuellar
 ### Razor Pages:
 
-### APIs Used:
 
 ## Luke Chittenden
 ### Razor Pages:
 
-### APIs Used:
