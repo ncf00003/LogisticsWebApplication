@@ -3,6 +3,7 @@
 ><br> Make sure website is uniformly structured and uses all applicable APIs from Assignment 4: 
 ><p> Structure is re-used from Assignment 2 so all pages have the same format. There should eventually be integration buttons so the Home Page has navigation to all user actions, since there are 6 Razor Pages and >multiple functions within many, it makes more sense to link these on the home page over the nav bar. </p>
 ><p>Made sure all CRUD opperations work plus figured out binary[] exception issue.</p>
+><strong> Note: All Database Updates need to be applied, files are located in SQL Folder as "UserEncryptDatabaseUpdate.sql" and "Shipments Update Assignment 4 NF.sql"</strong>
 
 # Individual Work
 ## Natalia Furmanek 
