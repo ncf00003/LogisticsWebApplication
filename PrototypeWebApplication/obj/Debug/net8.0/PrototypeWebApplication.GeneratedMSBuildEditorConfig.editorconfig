@@ -94,20 +94,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hpcG1lbnRXYXJlaG91c2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/TrackingCrud/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhY2tpbmdDcnVkXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/TrackingCrud/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhY2tpbmdDcnVkXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/TrackingCrud/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhY2tpbmdDcnVkXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/TrackingCrud/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhY2tpbmdDcnVkXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MISTUser/Documents/GitHub/LogisticsWebApplication/PrototypeWebApplication/Pages/TrackingCrud/Index.cshtml]
