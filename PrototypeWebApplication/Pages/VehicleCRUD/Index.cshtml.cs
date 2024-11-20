@@ -22,8 +22,21 @@ namespace PrototypeWebApplication.Pages.VehicleCRUD
 
         public async Task OnGetAsync()
         {
-            Vehicle = await _context.Vehicles
-                .Include(v => v.Driver).ToListAsync();
+            Vehicle = await _context.Vehicles.ToListAsync();
+            //.Include(v => v.Driver).ToListAsync();
+
+            /*foreach (var v in Vehicle)
+                {
+                    Vehicle.Model = await _context.Vehicles
+                        .FirstOrDefaultAsync(v => v.Vehicleid = Vehicle.Model);
+                }*/
+
+            foreach (var v in Vehicle)
+            {
+                v.Model = (await _context.Vehicles
+                    .FirstOrDefaultAsync(vInner => vInner.Vehicleid == v.Vehicleid))?.Model;
+            }
+
         }
     }
 }
