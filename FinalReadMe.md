@@ -9,7 +9,11 @@
 3. Proceed to all Stored Procedure files, marked with SPs
 ### Moving on to Project Data.
 1. Pull the "PrototypeWebApplication" folder: This is the original Project File that we will build off of when moving to the next files. Implement this project folder in visual studio.
-2. Proceed to add a new project for the API pages: Project Files are stored in the "LogisticsWebAppAPI" Folder 
+2. Pull and add the "LogisticsWebApp" folder to the PrototypeWebApplication project in Visual Studio.
+3. Proceed to add a new project for the API pages: Project Files are stored in the "LogisticsWebAppAPI" Folder
+4. Review all GitHub ReadMe files and Run the web Application.
+
+Note: if any issues arrise create a new database migration connection through the project manager window in Visual Studio.
 
 
 # Web Application API Guide
