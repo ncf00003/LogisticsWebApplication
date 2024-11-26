@@ -13,6 +13,9 @@
 3. Proceed to add a new project for the API pages: Project Files are stored in the "LogisticsWebAppAPI" Folder
 4. Review all GitHub ReadMe files and Run the web Application.
 
+### Error Troubleshooting
+Comments are listed throughout project files, start there for any issues. 
+<p> The process of implementing the SQL Database must be done in the order listed above. If there is an error implementing the database, run code again using the "Create or Update" line in SQL to make sure you are using the most recent Database Structure in SQL. </p>
 Note: if any issues arrise create a new database migration connection through the project manager window in Visual Studio.
 
 
