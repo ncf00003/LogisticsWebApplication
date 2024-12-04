@@ -41,7 +41,8 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 
 **Development Status:** In Development
 
-**Key Functionalities:**
+## Key Functionalities:
+
 1.	**Dynamic Shipping Routes**
 
 - Allows logistics companies to view and manage dynamic shipping routes.
@@ -120,7 +121,7 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 
 - Dynamic quoting systems for cost prediction.
 
-**Technology Stack**
+## Technology Stack
 
 - .NET
 - Razor Pages
