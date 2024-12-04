@@ -37,7 +37,7 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 # Overview
 **Project Name:** LogisticsWebApp
 
-**Description:** This webapp will aim to help the user keep track of shipments for a logistics company as well as provide accurate timing and dynamic quotes using normal and climate data in locations and stations in the route. 
+**Description:** The application is designed for logistics companies to manage and track shipments, vehicles, and warehouses while offering dynamic routing and shipment dashboards.
 
 **Development Status:** In Development
 
@@ -129,6 +129,68 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 
 
 # Developer Documentation
+## Architecture Summary
+- The app uses a layered architecture with a .NET backend, MySQL database, and Bootstrap-styled front-end.
+- Key technologies include:
+- Backend: ASP.NET, EF Core
+- Frontend: Bootstrap, JavaScript
+- APIs: Weather API, custom shipment and vehicle APIs
+- Database: MySQL (normalized to 3NF)
 
+## Codebase Structure
+- **Folder Structure:**
+- Controllers/: Handles incoming HTTP requests.
+- Services/: Contains business logic and API integrations.
+- Models/: Defines data models and DTOs.
+- Data/: Contains EF Core DbContext and database interaction logic.
+- SQL/: Contains SQL scripts for database setup and stored procedures.
+- wwwroot/: Static files for the front-end (CSS, JavaScript).
+- **Key Components:**
+- **DbContext Class (**LCDbContextClass**)**:
+- Central class for database interaction.
+- Maps entities to database tables.
+- **Controllers**:
+- LCapisController: Handles shipment and warehouse APIs.
+- LukeAddVehicleController, etc.: Manage specific functionalities.
+- **Stored Procedures**:
+- spAddShipment, spDeliveryTracking, spNewVehicle: Key for database operations.
 
+## Database
+- **Database Schema:**
+- Normalized MySQL database with tables for:
+- Users
+- Shipments
+- Vehicles
+- Warehouses
+- Include ER diagrams if available.
+- **Stored Procedures:**
+- Located in SQL folder.
+- Key procedures:
+- spAddShipment: Adds a shipment.
+- spDeliveryTracking: Retrieves tracking info.
+- spNewVehicle: Adds a vehicle to the database.
+- **Data Initialization:**
+- Sample data scripts are included in the SQL folder.
 
+## Front-End
+- **Styling:**
+- Uses the Minty Bootswatch theme for Bootstrap.
+- Custom CSS classes are defined for cohesive styling.
+- **Interactive Elements:**
+- JavaScript is used for table toggles and dynamic features like hiding/showing elements.
+- **Future Enhancements:**
+- Include more visually engaging graphics and user-friendly interfaces.
+
+## Future Enhancements
+- Implement dynamic quoting and cost estimation features.
+- Add real-time driver location tracking to enhance shipment monitoring.
+- Develop advanced analytics dashboards for logistics performance metrics.
+- Incorporate weather data for accurate delivery time estimates and dynamic pricing.
+
+## Troubleshooting 
+- **Common Issues:**
+- Database connection errors: Verify appsettings.json.
+- API failures: Check input validation in controllers.
+- **Debugging Tips:**
+- Use Visual Studio’s debugger for step-by-step execution.
+- Check logs for detailed error messages.
