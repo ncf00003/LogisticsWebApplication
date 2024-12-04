@@ -41,7 +41,8 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 
 **Development Status:** In Development
 
-
+**Key Functionalities:**
+- 
 
 **Technology Stack**
 
