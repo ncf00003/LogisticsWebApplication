@@ -42,7 +42,8 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 **Development Status:** In Development
 
 **Key Functionalities:**
-- 
+- CRUD Operations for items in the database
+- Encrypted passwords
 
 **Technology Stack**
 
