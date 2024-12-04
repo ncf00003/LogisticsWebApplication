@@ -19,9 +19,21 @@
 Comments are listed throughout project files, start there for any issues. 
 <p> The process of implementing the SQL Database must be done in the order listed above. If there is an error implementing the database, run code again using the "Create or Update" line in SQL to make sure you are using the most recent Database Structure in SQL. </p>
 Note: if any issues arrise create a new database migration connection through the project manager window in Visual Studio.
-
+<p> Avoid renaming any class file names or column items, unless addiing new tables this is unnessicary and will break functionality of the API's we created. 
+</p> 
+If loading new data to the database, use SQL's create or update command to do so. Optionally you can use CRUD web operations to update or add information in specific tables.    
 
 # Web Application API Guide
+Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
+[API ReadMe](https://github.com/ncf00003/LogisticsWebApplication/tree/main/LogisticsWebAppAPI#readme)
+
+<p> For CRUD Operations Page Information, Refer to ReadMe file: <br>
+
+   [CRUD Operations ReadMe](https://github.com/ncf00003/LogisticsWebApplication/blob/main/PrototypeWebApplication/ReadMeA5.md)
+   
+
+# Developer Documentation
+
 
 
 # Logistics Web App Overiew
