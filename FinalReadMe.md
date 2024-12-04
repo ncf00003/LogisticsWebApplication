@@ -243,3 +243,6 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 - **Debugging Tips:**
 - Use Visual Studio’s debugger for step-by-step execution.
 - Check logs for detailed error messages.
+
+### Resources
+- Utilized ChatGPT to help format and proofread read me from previous read me(s). 
