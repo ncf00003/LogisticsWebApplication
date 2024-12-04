@@ -42,8 +42,83 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 **Development Status:** In Development
 
 **Key Functionalities:**
-- CRUD Operations for items in the database
-- Encrypted passwords
+1.	**Dynamic Shipping Routes**
+
+- Allows logistics companies to view and manage dynamic shipping routes.
+
+- Provides an overview of tracking information.
+
+2.	**Real-Time Delivery Tracking**
+
+- Users can track their shipments using a unique Shipment ID and User ID.
+
+- Displays delivery status, current location, and expected delivery date.
+
+3.	**Warehouse Management**
+
+- Provides a warehouse summary for selected locations.
+
+- Displays key information such as the number of shipments, address, city, and state for each warehouse.
+
+4.	**Shipment Dashboard**
+
+- Allows users to add shipments to the application.
+
+- Summarizes all current shipments with relevant details like type, weight, and cost.
+
+5.	**Shipment Search**
+
+- Enables users to search shipments by type, retrieving all related shipment details.
+
+6.	**Vehicle Management**
+
+- Allows the addition of vehicles to the system.
+
+- Provides information about vehicle models, capacities, and assigned drivers.
+
+7.	**User Authentication**
+
+- Includes secure login and profile creation functionalities.
+
+- Verifies user credentials using email and password.
+
+8.	**Interactive Learning Page**
+
+- Educates users about logistics processes such as tracking, zones, and estimated delivery times.
+
+- Aims to enhance user confidence and reduce confusion.
+
+9.	**API-Driven Functionality**
+
+- Integrates multiple APIs to power features like:
+
+- Vehicle-driver associations.
+
+- Shipment addition and updates.
+
+- Ensures a scalable and modular approach to app functionality.
+
+10.	**Database Integration**
+
+- A normalized MySQL database is used to store user profiles, tracking information, shipment details, and warehouse data.
+
+- Supports efficient queries through stored procedures for shipment tracking, vehicle information, and more.
+
+11.	**Privacy and Security**
+
+- Includes a detailed Privacy Policy page.
+
+- Ensures data protection and clear communication about data usage.
+
+12.	**Scalability and Future Enhancements**
+
+- Modular design to enable the addition of new functionalities like:
+
+- Real-time driver tracking.
+
+- Advanced route optimization using historical data.
+
+- Dynamic quoting systems for cost prediction.
 
 **Technology Stack**
 
