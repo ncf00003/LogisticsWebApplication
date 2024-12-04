@@ -34,6 +34,21 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 
    [CRUD Operations ReadMe](https://github.com/ncf00003/LogisticsWebApplication/blob/main/PrototypeWebApplication/ReadMeA5.md)
    
+# Overview
+**Project Name:** LogisticsWebApp
+
+**Description:** This webapp will aim to help the user keep track of shipments for a logistics company as well as provide accurate timing and dynamic quotes using normal and climate data in locations and stations in the route. 
+
+**Development Status:** In Development
+
+
+
+**Technology Stack**
+
+- .NET
+- Razor Pages
+- MySQL Server
+
 
 # Developer Documentation
 
