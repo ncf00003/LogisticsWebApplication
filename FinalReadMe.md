@@ -153,7 +153,7 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 - LCapisController: Handles shipment and warehouse APIs.
 - LukeAddVehicleController, etc.: Manage specific functionalities.
 - **Stored Procedures**:
-- spAddShipment, spDeliveryTracking, spNewVehicle: Key for database operations.
+- spAddShipment, spDeliveryTracking, spNewVehicle, spVehicleDrivers, spSumShipmentsWarehouse, spShipmentType, spCreateUserProfile, spVerifyLogin: Key for database operations.
 
 ## Database
 - **Database Schema:**
@@ -166,9 +166,58 @@ Refer to API ReadMe for all Inputs, Outputs, and Purpose: <br>
 - **Stored Procedures:**
 - Located in SQL folder.
 - Key procedures:
-- spAddShipment: Adds a shipment.
-- spDeliveryTracking: Retrieves tracking info.
-- spNewVehicle: Adds a vehicle to the database.
+- **spDeliveryTracking**
+- **Description:** Retrieves user delivery date and tracking information, formatted similar to an order email.
+- **Parameters:**
+- @userid
+- @shipmentid (int)
+- **spVehicleDrivers**
+- **Description:** Retrieves all drivers based on a vehicle ID.
+- **Parameters:**
+- @vehicleid
+- **spCountShipmentsWarehouse**
+- **Description:** Retrieves the total number of shipments in a warehouse or incoming to a warehouse.
+- **Parameters:**
+- @warehouseid (int)
+- **spAddShipment**
+- **Description:** Adds a new shipment to the shipments table.
+- **Parameters:**
+- @DeliveryDate (DATE = NULL)
+- @ShipmentType (NVARCHAR(50))
+- @Weight (DECIMAL(18, 2))
+- @Cost (DECIMAL(18, 2))
+- @userID (int)
+- @vehicleID (int = NULL)
+- @routeID (int = NULL)
+- @warehouseID (int = NULL)
+- @OriginLocationID (int = NULL)
+- @DestinationLocationID (int = NULL)
+- **spShipmentType**
+- **Description:** Finds all shipments based on shipment type.
+- **Parameters:**
+- @ShipmentType
+- **spNewVehicle**
+- **Description:** Adds a new vehicle to the database.
+- **Parameters:**
+- @model (string)
+- @vin (string)
+- @plate (string)
+- @capacity (int)
+- @driverID (int)
+- **spCreateUserProfile**
+- **Description:** Creates a user profile or returns a message if the profile already exists.
+- **Parameters:**
+- @Firstname
+- @LastName
+- @Email
+- @Password
+- @ContactNumber
+- @Address
+- **spVerifyLogin**
+- **Description:** Verifies a user’s email and password for account login.
+- **Parameters:**
+- @Email
+- @Password
 - **Data Initialization:**
 - Sample data scripts are included in the SQL folder.
 
